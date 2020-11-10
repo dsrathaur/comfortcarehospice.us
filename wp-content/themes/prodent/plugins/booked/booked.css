@@ -1,0 +1,115 @@
+/* Calendar */
+table.booked-calendar tr.days th {
+	border: 0 solid #ddd !important;
+}
+table.booked-calendar td,
+table.booked-calendar td+td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+/* Booked form */
+body .booked-form .field .checkbox-radio-block label {
+	padding-left: 1.4em;
+}
+body .booked-form .field .checkbox-radio-block label:before {
+	line-height: 0.65em;
+}
+
+/* Login form */
+#booked-page-form .login-remember input {
+	display: inline;
+	vertical-align:middle;
+}
+.booked-icon-arrow-right:before {
+	content: '\e92b';
+	font-family: 'fontello';
+	font-size: 12px;
+}
+.booked-icon-arrow-left:before {
+	content: '\e92a';
+	font-family: 'fontello';
+	font-size: 12px;
+}
+body table.booked-calendar td .date .number{
+	font-size:15px;
+	width: 34px;
+	height: 34px;
+	line-height: 33px;
+}
+#booked-profile-page i.fa {
+	color: inherit;
+}
+body table.booked-calendar th {
+	padding: 1rem 0 !important;
+}
+body table.booked-calendar tr.days th {
+	padding: 0.3rem 0 0.9rem!important;
+}
+body table.booked-calendar th .monthName{
+	text-transform: capitalize;
+}
+body table.booked-calendar th .monthName,
+body table.booked-calendar tr.days th{
+	font-weight: 500;
+}
+body .home_5 table.booked-calendar .booked-appt-list{
+	padding: 15px 10px;
+	max-height: 7em;
+	overflow-y: auto;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people button{
+	padding:12px;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people{
+	height: 80px;
+}
+body .booked-calendar-wrap .booked-appt-list h2{
+	font-size: 16px;
+	margin-bottom:15px;
+}
+
+
+/* User profile header */
+#booked-profile-page div.booked-profile-header {
+	padding: 0 0 2em;
+}
+#booked-profile-page div.booked-user-avatar {
+	width: 50px;
+	height:50px;
+}
+#booked-profile-page div.booked-user-avatar img {
+	-webkit-border-radius: 50%;
+	    -ms-border-radius: 50%;
+			border-radius: 50%;
+}
+#booked-profile-page .booked-user h3 strong {
+	font-weight:400;
+}
+
+/* User profile content */
+#booked-profile-page div.booked-tab-content {
+	-webkit-border-radius: 0;
+	    -ms-border-radius: 0;
+			border-radius: 0;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people {
+	height: 80px;
+}
+body .booked-calendar-wrap .booked-appt-list .timeslot.timeslot-count-hidden .timeslot-time {
+	height: 80px;
+}
+body .booked-form input[type=submit], body .booked-form button {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.booked-icon-arrow-right:before{
+
+}
+
+.home_5 .booked-calendar-shortcode-wrap {
+	max-height: 520px;
+	overflow-y: auto;
+	overflow-x: hidden;
+}

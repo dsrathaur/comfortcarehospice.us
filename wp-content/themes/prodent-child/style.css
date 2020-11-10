@@ -1,0 +1,323 @@
+@charset 'utf-8';
+/*
+  Theme Name: ProDent Child
+  Theme URI: http://prodent.ancorathemes.com/
+  Description: ProDent - Multipurpose and Multiskin Responsive Wordpress theme
+  Author: AncoraThemes
+  Author URI: http://ancorathemes.com/
+  Template: prodent
+  Version: 1.0
+  Tags: light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+  Text Domain:  prodent
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.covid-content-wrap .sc_content_descr ul li{ padding-bottom: 15px; }
+.sc_title.covid-19-banner-title .sc_item_title{ font-size: 2.5em; }
+
+.scheme_default,
+.scheme_default.sc_layouts_row_type_compact .sc_layouts_item a:not(.sc_button):not(.button),
+.scheme_default .sc_layouts_row_type_compact .sc_layouts_item_details_line1, 
+.scheme_default .sc_layouts_row_type_compact .sc_layouts_item_details_line2, 
+.scheme_default.sc_layouts_row_type_compact .sc_layouts_item_details_line1, 
+.scheme_default.sc_layouts_row_type_compact .sc_layouts_item_details_line2
+{ color: #999 !important; }
+
+
+
+.welcome-comfort-care-hospice-section .welcome-comfort-care-hospice-left-col .sc_item_title { font-size: 2.5em !important; font-weight: 300 !important; max-width: calc(100% - 20px) !important; }
+.welcome-comfort-care-hospice-section .welcome-comfort-care-hospice-left-col .sc_title_descr.sc_align_left { max-width: calc(100% - 20px) !important; margin: 30px 0 !important; }
+
+.self-assessment-sidebar-wrapper .sc_shift_y_large_negative { top: auto !important; padding: 6em 0; }
+.self-assessment-box-wrapper { box-shadow: 0.067em 0.067em 4.133em rgba(12, 71, 84, 0.08); background-color: #fff; margin: 0 20px; }
+.self-assessment-box-wrapper .sc_item_title { padding: 25px 30px;    background: #087bf0; color: #FFF; font-size: 2.5em !important; font-weight: 400 !important; text-align: center; }
+.self-assessment-box-wrapper > .sc_item_descr { background: #FFF; width: unset; max-width: 100%; padding: 35px 35px 15px 35px; margin: 0px; color: #555; }
+.self-assessment-box-wrapper > .sc_item_descr h3, .welcome-comfort-care-hospice-section .welcome-comfort-care-hospice-left-col .sc_title_descr.sc_align_left h3 { font-size: 1.4em; line-height: 1.4em; font-weight: 500; margin: 15px 0 30px 0;  }
+.self-assessment-box-wrapper > .sc_item_descr h4 { font-size: 1.1em; line-height: 1.1em; font-weight: 500; margin: 15px 0 30px 0;  } 
+.self-assessment-box-wrapper > .sc_item_descr h5 { font-size: 1.1em; line-height:24px; font-weight: 500; margin: 15px 0 30px 0;  } 
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list { margin: 15px 0 30px 0; padding: 0px; display: flex; flex-direction: column; list-style-type: none; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item { margin: 15px 0px 0px 0px; padding: 0px 0px 0px 20px; position: relative; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item::before { content: ""; position: absolute; height: 8px; width: 8px; display: inline-flex; background: #087bf0; left: 0; top: 9px; border-radius: 100%; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item:first-child { margin: 0px; }
+
+
+.self-assessment-box-wrapper > .sc_item_button.sc_button_wrap { background: #FFFF;  margin: 0; padding: 15px 35px 35px 35px; }
+.self-assessment-box-wrapper > .sc_item_button.sc_button_wrap .sc_button { text-align: center; width: 100%; }
+
+.question_heading {
+    font-weight: 300 !important;
+    font-size: 30px;
+    margin: 40px 0 !important;
+}
+
+.process-alone-points-wrapper > .vc_column-inner::before { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0, 70, 140,0.8); display: flex; }
+.process-alone-points-wrapper .trx_addons_list_parameters>li:nth-child(2n+1) { background-color: rgba(8, 123, 240,0.7); }
+
+
+
+.call-to-action-section .sidebar-call-to-action-wrapper .sc_item_descr { width: auto; max-width: 100%; margin: 1.5rem 0 0 0; font-size: 1.2em;  }
+
+
+
+.we-are-help-you-section .we-are-help-you-container { max-width: 1170px; margin: 0 auto; }
+.we-are-help-you-section .sc_icons_icon { background-color: #087bf0 !important; }
+
+
+.footer-about-information-section .sc_content { width: 100%; max-width: 1450px; }
+.footer-about-information-section .footer-about-information-content p{ font-size: 1.1em; text-align: center; color: #FFF!important; font-weight: 400; }
+.scheme_default.footer_wrap a{ color: #333; }
+.scheme_default.footer_wrap .sc_icons .sc_icons_item_description{ color: #333; }
+
+.scheme_dark .sc_layouts_title_breadcrumbs .current { color: #FFF !important; }
+
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default.our-team-single-title .sc_item_title{ font-size: 28px; }
+.our-team-head-wrap .our-team-title-wrapper .sc_content_default .sc_item_title{ font-weight: 500; color: #000; text-align: center; }
+.our-team-head-wrap .our-team-title-wrapper .sc_content_default .sc_content_descr{ width: auto; max-width: 100%; margin: 20px 0 0; color: #333; text-align: center; }
+.our-team-all-members-section .our-team-member-wrapper .wpb_single_image .vc_single_image-img { border-radius: 10px; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_item_title { font-size: 2.2em; line-height: 1.1em; font-weight: 500;
+    color: #000; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_item_subtitle { margin: 10px 0 0 0; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_content_descr { width: auto; max-width: 100%; margin: 20px 0 0; color: #333; }
+.our-team-all-members-section .vc_separator { margin-top: 30px !important; margin-bottom: 40px !important; }
+
+
+.our-team-all-members-title-section .sc_title_default { max-width: 900px; width: 100%; margin: 0 auto; }
+.our-team-all-members-title-section .sc_title_default .sc_item_title { font-weight: 500 !important; color: #FFF; font-size: 38px!important; }
+.our-team-all-members-title-section .sc_title_default .sc_item_subtitle { color: #FFF; opacity: 0.7; font-weight: 400; }
+
+
+/*.full-width-testimonials-section::before { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0,0,0,0.85); }*/
+.full-width-testimonials-section .sc_testimonials .sc_item_title.sc_testimonials_title { color: #FFF; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item { padding-bottom: 30px; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_content { background: transparent !important; color: #FFF; font-weight: 500; padding: 0;  }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_content::before { display: none; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author { color: #FFF; font-weight: 500; padding: 30px 0px 0px; margin: 0px; max-width: 400px; width: 100%; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author .sc_testimonials_item_author_avatar { display: none !important; }
+.sc_testimonials_item_author_title:after{ content: none; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author .sc_testimonials_item_author_data .sc_testimonials_item_author_title { width: 100%; color: #FFF; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author .sc_testimonials_item_author_data .sc_testimonials_item_author_subtitle { width: 100%; color: #FFF; }
+
+
+
+.inner-pages-banner-section::before { content: ""; position: absolute; top: 0; height: 100%; width: 100%; left: 0; background: rgba(0,0,0,0.5); }
+
+
+.custom-revo-slider-section rs-module-wrap rs-module rs-slides rs-slide rs-sbg-px rs-sbg-wrap::after { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0,0,0,0.5); z-index: 2; }
+
+
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container { padding: 0px !important; margin: 0px !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels { padding: 0px !important; margin: 0px !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel { padding: 0px !important; margin: 0px !important; }
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-title a { padding: 30px 70px 30px 30px !important; } 
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-title a .vc_tta-controls-icon { right: 30px; top: 50% !important; transform: translate(0px, -50%); }
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel::after { display: none !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-heading { background: #087bf0 !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading { background: #fd38e8 !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-body { background: #087bf0 !important; padding: 0; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-body .wpb_wrapper { background: #ffe9fd !important; color: #111 !important; }
+
+
+/*.our-team-cta-section::after { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0,0,0,0.5); z-index: 1; }*/
+.our-team-cta-section > .wpb_column { z-index: 2; }
+.our-team-cta-section .vc_general { background: transparent !important; border: none !important; padding: 0px !important; } 
+.our-team-cta-section .vc_cta3-container { margin-bottom: 0; } 
+.our-team-cta-section .vc_general .vc_cta3-content .vc_cta3-content-header h2 { color: #FFF; font-size: 3em; font-weight: 400; margin: 0 0 20px; padding: 0; }
+.our-team-cta-section .vc_general .vc_cta3-content .vc_cta3-content-header h4 { color: #FFF; font-size: 1.5em; line-height: 1.5em; }
+.our-team-cta-section .vc_general .vc_cta3-actions { text-align: center; }
+.our-team-cta-section .vc_general .vc_cta3-actions .vc_btn3-container a.vc_general { font-family: "Montserrat",sans-serif; font-size: 18px; font-weight: 500; font-style: normal; line-height: normal; text-decoration: none; text-transform: none; letter-spacing: -0.2px; background: #FFF !important; color: #111 !important; padding: 1.6em 4em 1.7333em !important; border-radius: 70px; transition: all 0.3s; }
+.our-team-cta-section .vc_general .vc_cta3-actions .vc_btn3-container a.vc_general:hover { background: #087bf0 !important; color: #FFF !important; transition: all 0.3s; }
+
+
+.volunteer-info-boxes-section .sc_item_columns { justify-content: center; }
+.volunteer-info-boxes-section .sc_item_columns .sc_icons_item { background: #FFF; box-shadow: 0 0 25px rgba(0,0,0,0.1); display: flex; flex-direction: column; padding: 25px; }
+
+
+
+
+.scheme_dark .menu_mobile_inner a:hover, .scheme_dark .menu_mobile_inner .current-menu-ancestor>a, .scheme_dark .menu_mobile_inner .current-menu-item>a, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li:hover:before, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li.current-menu-ancestor:before, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li.current-menu-item:before { color: #fd38e8 !important; }
+.scheme_default .menu_mobile_inner .social_item .social_icon { color: #fd38e8 !important; }
+
+
+
+.home-about-section .home-about-left-col .sc_title .sc_item_title { font-size: 2.5em !important; font-weight: 300 !important; max-width: calc(100% - 20px) !important; }
+.home-about-section .home-about-left-col .sc_title_descr.sc_align_left { max-width: calc(100% - 20px) !important; margin: 30px 0 !important; }
+
+
+.home-about-section .home-about-right-col .sc_title .sc_item_title { font-size: 2.5em !important; font-weight: 300 !important; max-width: calc(100% - 20px) !important; color: #FFF; }
+.home-about-section .home-about-right-col .sc_title .sc_item_subtitle { color: #FFF; }
+
+.home-about-section .home-about-right-col .trx_addons_list_parameters>li { color: #FFF; padding: 0.95em 0.95em 0.95em 3.9em; }
+.home-about-section .home-about-right-col .trx_addons_list_parameters>li:before { color: #FFF !important; }
+.home-about-section .home-about-right-col .trx_addons_list_parameters>li:nth-child(2n+1) { background-color: rgba(8, 123, 240,0.7); }
+.home-about-section .home-about-right-col h4 { font-size: 1.7em; color: #FFF; line-height: 1.5em; }
+
+
+
+.assessment-questionnaire-section::before { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0, 70, 140,0.8); display: flex; }
+.assessment-questionnaire-section .sc_item_title { color: #FFF; }
+.assessment-questionnaire-section .trx_addons_list_parameters>li { color: #FFF; padding: 0.95em 0.95em 0.95em 3.9em; }
+.assessment-questionnaire-section .trx_addons_list_parameters>li:before { color: #FFF !important; }
+.assessment-questionnaire-section .trx_addons_list_parameters>li:nth-child(2n+1) { background-color: rgba(8, 123, 240,0.7); }
+.assessment-questionnaire-section h4 { font-size: 1.7em; color: #FFF; line-height: 1.5em; }
+
+
+
+.modal-survey-container .survey_table .survey_question { background: #087bf0 !important; border: 1px solid #0064ca !important; color: #FFF !important; margin: 10px !important; padding: 1.6em !important; }
+.modal-survey-container .survey_table .survey_question span { padding: 0 !important; margin: 0 !important; font-size: 1.5em !important; line-height: 1.4em !important; font-weight: 500; }
+
+.modal-survey-container .survey_table .survey_answers { margin: 10px !important; padding: 1em !important; }
+.modal-survey-container .survey_table .survey_answers span { padding: 0 !important; margin: 0 !important; font-size: 1.2em !important; line-height: 30px !important; }
+
+.modal-survey-container .survey-progress-bar { margin: 10px 0 0; }
+
+
+
+
+.sc_services_slider .sc_services_item, 
+.sc_services_columns_wrap .sc_services_item, 
+.services_page_related .related_columns .sc_services_item { display: flex; }
+
+.sc_services_callouts .sc_services_item_marker img { max-width: calc(100% - 40px); max-height: calc(100% - 40px); }
+.scheme_default .sc_services_callouts .sc_services_item_marker { background-color: #087bf0; }
+.sc_services_callouts .sc_services_item_featured_top .sc_services_item_info { display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; width: 100%; }
+.sc_services_callouts .sc_services_item_button { display: none; }
+
+
+.home-services-short-list-section .sc_services .sc_item_title { font-weight: 500 !important; color: #FFF; }
+.home-services-short-list-section .sc_services .sc_item_subtitle { color: #FFF; opacity: 0.7; font-weight: 400; }
+.home-services-short-list-section .sc_services .sc_services_item { padding: 0px; margin: 0px; }
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_icon { border: 2px solid #FFF; background-color: #FFF; }
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_icon .sc_services_item_icon { border: 2px solid #FFF; background-color: #FFF; }
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_icon .sc_icon_as_image { filter: contrast(0.0) brightness(0.4) !important; }
+
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_info { background: transparent; box-shadow: unset; padding: 160px 0px 0px 0px; margin: 0px; }
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_info .sc_services_item_header .sc_services_item_title,
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_info .sc_services_item_header .sc_services_item_title a { color: #FFF !important; }
+
+.home-services-short-list-section .sc_item_button .sc_button { color: #FFF !important; }
+.home-services-short-list-section .sc_item_button .sc_button::after { color: #FFF !important; }
+
+
+.all-our-services-section .services-hover-box-wrap { margin: 15px 0; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-front::before { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: #fff; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-front .vc-hoverbox-block-inner { z-index: 1; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-front .vc-hoverbox-block-inner h2 { color: #087BF0 ; font-size:24px; margin: 0;    font-weight: 600; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-back { background: #087BF0 !important; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-back .vc-hoverbox-block-inner h2 { color: #FFF; font-size: 20px; margin: 0 0 20px 0; font-weight: 600; }
+.all-our-services-section .services-hover-box-wrap .vc-hoverbox-inner .vc-hoverbox-back .vc-hoverbox-block-inner p { color: #FFF; font-size: 1.1em; margin: 0; font-weight: normal; }
+
+
+
+
+.inner-testimonials-section .inner-testimonials-left-col .sc_title .sc_item_title { font-size: 2.5em !important; font-weight: 300 !important; max-width: calc(100% - 20px) !important; }
+.inner-testimonials-section .inner-testimonials-left-col .sc_title_descr.sc_align_left { max-width: calc(100% - 20px) !important; margin: 30px 0 !important; }
+
+.inner-testimonials-section .inner-testimonials-right-col > .vc_column-inner > .wpb_wrapper::after { content: ""; height: 100%; width: 100%; position: absolute; left: 0; top: 0; background: rgba(0, 70, 140,0.8); z-index: 1; }
+.inner-testimonials-section .inner-testimonials-right-col > .vc_column-inner > .wpb_wrapper > .sc_content { z-index: 2; }
+.inner-testimonials-section .sc_testimonials_item .sc_testimonials_item_content::before { display: none; }
+.inner-testimonials-section .sc_testimonials_item_author { margin: 0px !important; }
+.inner-testimonials-section .sc_testimonials_item_author .sc_testimonials_item_author_title { width: 100% !important; color: #FFF !important; }
+.inner-testimonials-section .sc_testimonials_item_author .sc_testimonials_item_author_subtitle { width: 100% !important; color: #FFF !important; }
+.inner-testimonials-section .inner-testimonials-left-col .sc_title_descr.sc_align_left ul li{ padding-bottom: 15px; }
+
+.covid19-letter-section .covid19-letter-wrapper { padding: 30px; background: #FFF; border: 1px solid #CCC; color: #222; max-width: 900px; margin: 30px auto 0 auto; }
+
+/*home health page transition-care-program-wrapper*/
+.transition-care-program-wrapper .sc_content_descr{ width: auto; max-width: 100%; }
+.transition-care-program-wrapper .sc_content_descr h6{ margin-top: 40px; margin-bottom: 20px; }
+
+/*footer*/
+.contacts_logo{ text-align: right; }
+.contact_us .sc_form_field_submit{ padding-top: 30px; }
+
+/*scroll btn*/
+.scroll-btn-wrapper .scroll-down-btn { position: absolute; bottom: 0; top: auto; left: 0%; transform: translate(0, 0); color: #FFF; font-size: 18px; letter-spacing: 1px !important; font-weight: 400 !important; }
+.scroll-btn-wrapper .scroll-down-btn:hover{ color: #fff; }
+.scroll-btn-wrapper .scroll-down-btn .object { width: auto; height: 30px; position: relative; display: block; margin: 0px auto 80px; }
+.scroll-btn-wrapper .scroll-down-btn .object:before {position: absolute; box-sizing: content-box; -webkit-animation: mymove 2s infinite; animation: mymove 2s infinite; content: " "; transform-origin: left; transform: rotate(180deg) translate(-50%, -50%); left: 50%; font-size: 18px; content: '\e85a'; font-family: "trx_addons_icons"; font-style: normal; font-weight: normal; border: 1px solid #fff; border-radius: 50%; width: 50px; height: 50px; text-align: center; line-height: 50px; }
+
+@-webkit-keyframes mymove {
+  0% {top: 0px;  opacity: 0;  }
+  20% {  opacity: 1;  }
+  80% {  opacity: 1;  }
+  100% {top: calc(100% - 10px); opacity: 0;  }
+}
+
+@keyframes mymove {
+  0% {top: 0px; opacity: 0; }
+  20% { opacity: 1; }
+  80% {  opacity: 1;  }
+  100% {top: calc(100% - 10px); opacity: 0;  }
+}
+
+
+.quiz_section label, 
+.quiz_section .mlw_qmn_question { font-weight: 500!important; color:#555555!important; }
+
+.quiz_section.quiz_begin { display: flex; flex-wrap: wrap; }
+.quiz_section.quiz_begin .qsm_contact_div { width: 50%; padding-right: 20px; box-sizing: border-box; }
+
+.quiz_section select, 
+.quiz_section textarea, 
+.quiz_section input[type="text"], 
+.quiz_section input[type="email"], 
+.quiz_section input[type="number"] { width: 100%!important; height: 50px!important; font-weight: normal!important; }
+
+.qmn_radio_answers label { font-weight: normal!important; }
+
+.our-services-list ul{ list-style: none; display: flex; flex-wrap: wrap; padding-left: 0px; }
+.our-services-list ul li{ position: relative; padding-left: 20px; width: calc(50% - 60px); margin-right: 30px; margin-bottom: 12px; font-size: 16px; }
+.our-services-list ul li:nth-child(2n){ margin-left: 30px; margin-right: 0px; }
+.our-services-list ul li::before{ position: absolute; top: 4px; left: 0; content: ""; transform: rotate(45deg); width: 5px; height: 10px; border: solid #000; border-width: 0 3px 3px 0;}
+
+@media screen and (min-width: 1440px) {
+
+/* header*/
+.sc_layouts_menu_nav>li{ font-size: 17px; }
+.sc_layouts_row_type_compact .sc_layouts_logo img{ max-height: 100%; max-width: 230px; }
+.sc_layouts_column_icons_position_left .sc_layouts_item_details{ font-size: 17px; }
+.sc_layouts_row_type_compact .sc_layouts_item_details_line1{ font-size: 18px; }
+
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default.our-team-comfort-care-title .sc_item_title{ font-size: 34px; }
+
+}
+
+@media screen and (max-width: 1023px) {
+
+    .our-team-all-members-title-section .sc_title_default .sc_item_title{ font-size: 27px!important; }
+	.quiz_section.quiz_begin .qsm_contact_div { width: 100%; padding-right: 0px; }
+	.quiz_section select, .quiz_section textarea, 
+	.quiz_section input[type="text"], 
+	.quiz_section input[type="email"], 
+	.quiz_section input[type="number"] { height: 40px!important; }
+	
+	.quiz_section label, .quiz_section .mlw_qmn_question { font-size: 14px!important; }
+	.quiz_section select, .quiz_section textarea, .quiz_section input[type="text"] { font-size: 14px!important; }
+}
+
+@media screen and (max-width: 768px){
+  .modal-survey-container .survey_table .survey_answers span{ line-height: 20px !important; }
+  .sc_title.covid-19-banner-title {padding: 40px 0 40px 40px!important; }
+}
+
+@media screen and (max-width: 768px) {
+
+.self-assessment-sidebar-wrapper .sc_shift_y_large_negative { top: auto !important; padding: 0 !important; }
+.self-assessment-box-wrapper .sc_item_title { font-size: 1.7em !important; }
+.self-assessment-box-wrapper > .sc_item_descr { padding: 15px 25px 15px 25px; margin: 0px !important; }
+.self-assessment-box-wrapper > .sc_item_descr h3, .welcome-comfort-care-hospice-section .welcome-comfort-care-hospice-left-col .sc_title_descr.sc_align_left h3 { font-size: 1.3em !important; line-height: 1.3em !important; }
+.self-assessment-box-wrapper > .sc_item_descr h5 { font-size: 1.2em !important; line-height: 1.4em !important; font-weight: 500; margin: 15px 0; }
+
+.our-team-all-members-section .vc_separator { margin-top: 35px !important; margin-bottom: 35px !important; }
+
+.home-services-short-list-section .sc_services .sc_services_item .sc_services_item_info { padding: 6.5em 0px 0px 0px; }
+
+.our-team-cta-section .vc_general .vc_cta3-actions .vc_btn3-container a.vc_general { padding: 11px 15px 11px !important; font-size: 11px; line-height: 16px; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default.our-team-comfort-care-title .sc_item_title{ font-size: 30px; }
+}

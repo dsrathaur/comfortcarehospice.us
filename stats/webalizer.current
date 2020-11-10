@@ -1,0 +1,3979 @@
+# Webalizer V2.23-08 Incremental Data - 11/09/2020 01:58:08
+2020 11 9 1 58 8
+12485 10345 942 250 170 63 626523135 4312 1527 0
+13 41 1065 1 9
+1712 1398 87307931 148 505 207
+1361 1084 82274912 203 523 255
+1867 1515 109710766 192 425 230
+1469 1229 75251315 189 457 229
+2337 2135 70115588 136 1392 162
+1346 1095 75715682 122 301 158
+1073 813 56492089 131 299 134
+1270 1030 67219762 131 397 142
+50 46 2435090 13 13 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+353 304 22394716 98
+843 729 41361105 144
+310 235 14615233 93
+380 315 20565853 110
+621 486 26710946 128
+461 355 24051436 135
+433 375 23178960 153
+345 307 21849173 135
+1286 1260 18642576 1125
+636 557 31100158 179
+713 593 41379531 139
+404 316 22003530 200
+663 512 34783616 163
+296 204 12945704 103
+430 377 26968341 108
+1226 1059 76270448 130
+407 328 20176607 152
+648 498 34595570 389
+527 312 24520316 127
+378 284 17274850 126
+399 340 24523208 92
+112 94 8248316 61
+303 280 18670537 99
+311 225 19692405 123
+0
+0
+0
+10345
+0
+0
+0
+0
+0
+10
+0
+431
+7
+0
+1290
+0
+0
+20
+1
+0
+7
+341
+23
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+# -urls- 
+/sitemap_index.xml
+0 2 0 2730 0 0
+/wp-content/plugins/trx_addons/js/swiper/swiper.min.css
+0 98 0 1634104 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg
+0 16 0 92505 0 0
+/wp-content/plugins/js_composer/assets/images/icons/control.png
+1 13 0 6110 0 0
+/wp-content/plugins/js_composer/assets/images/spinner.gif
+1 13 0 8749 0 0
+/wp-content/uploads/2020/04/volunteer-inner-banner.jpg
+1 114 0 13356628 0 0
+/wp-content/plugins/js_composer/assets/vc/blur.svg
+0 16 0 126 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-5.jpg
+1 82 0 5204375 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-20.jpg
+1 68 0 5054100 0 0
+/testimonials/
+0 33 0 2394722 5 2
+/covid-19/
+0 27 0 1886465 2 2
+/wp-content/plugins/top-bar/inc/../js/jquery.cookie.js
+0 1 0 3121 0 0
+/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css
+0 105 0 1190322 0 0
+/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+1 13 0 8866 0 0
+/wp-content/uploads/2020/03/Nursing-Support.png
+1 57 0 147060 0 0
+/my-account
+0 2 0 103106 0 0
+/self-assessment-questionnaire/
+0 39 0 3455012 4 0
+/join-our-team/
+0 20 0 1399419 4 2
+/wp-json/wp/v2/pages/2
+0 2 0 51617 0 0
+/wp-content/themes/prodent/css/__colors.css
+0 99 0 60490420 0 0
+/wp-content/plugins/revslider/public/assets/css/rs6.css
+0 102 0 5101888 0 0
+/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.eot
+0 22 0 953876 0 0
+/wp-content/plugins/quiz-master-next/readme.txt
+0 14 0 258900 0 0
+/wp-content/uploads/2020/04/care-satisfaction-survey-banner.jpg
+1 74 0 1676235 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-23.jpg
+1 1 0 50938 0 0
+/services/routine-home-care/
+0 24 0 1290678 3 2
+/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+1 13 0 8762 0 0
+/wp-content/uploads/2020/04/no-one-dies-bg.jpg
+1 66 0 11554128 0 0
+/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js
+0 101 0 1730484 0 0
+/wp-content/plugins/trx_addons/css/font-icons/font/trx_addons_icons.svg
+0 43 0 3141100 0 0
+/services/bereavement-and-emotional-support/
+0 3 0 159376 1 0
+/wp-content/uploads/2020/03/Crisis-Care-for-Distress-Management.png
+1 58 0 153062 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-white-logo.png
+1 75 0 1929750 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+1 13 0 910 0 0
+/wp-content/themes/prodent/images/preloader.gif
+1 13 0 145769 0 0
+/wp-content/plugins/js_composer/assets/images/icons/chart.png
+1 13 0 8567 0 0
+/wp-content/themes/prodent/css/font-icons/font/fontello.eot
+0 20 0 1564728 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+1 13 0 923 0 0
+/cobbles/
+0 4 0 281272 4 2
+/grid/
+0 1 0 70282 1 0
+/wp-json/wp/v2/users/
+0 10 0 31240 0 1
+/wp-includes/js/jquery/ui/slider.min.js
+0 105 0 1016583 0 0
+/wp-content/plugins/js_composer/assets/vc/no_image.png
+1 3 0 3357 0 0
+/home-1/feed/
+0 15 0 11550 1 2
+/wp-content/uploads/2020/03/Physician.png
+1 64 0 289974 0 0
+/inpatient-care/
+0 32 0 2106213 2 3
+/wp-content/plugins/js_composer/assets/images/icons/heart.png
+1 13 0 10296 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-10.jpg
+1 15 0 79205 0 0
+/wp-content/plugins/js_composer/assets/images/icons/video.png
+1 13 0 8541 0 0
+/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+1 13 0 7670 0 0
+/wp-content/uploads/2020/04/Home-banner3.jpg
+1 114 0 5523776 0 0
+/wp-content/uploads/2020/04/home-banner-01.jpg
+1 112 0 7410200 0 0
+/wp-content/plugins/js_composer/assets/images/icons/mail.png
+1 13 0 6565 0 0
+/wp-content/plugins/js_composer/assets/images/flickr.png
+1 13 0 2574 0 0
+/author/kiritadm/
+0 4 0 204381 0 0
+/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+1 13 0 8255 0 0
+/wp-content/plugins/essential-grid/public/assets/css/settings.css
+0 103 0 3057160 0 0
+/wp-json/wp/v2/pages/1385
+0 1 0 21784 0 0
+/wp-content/plugins/contact-form-7-datepicker/readme.txt
+0 14 0 55670 0 0
+/wp-content/plugins/js_composer/assets/css/js_composer_tta.min.css
+0 4 0 1287808 0 0
+/wp-content/plugins/quiz-master-next/js/progressbar.min.js
+0 3 0 58922 0 0
+/wp-json/contact-form-7/v1
+0 1 0 1300 0 0
+/wp-content/plugins/js_composer/assets/images/icons/clock.png
+1 13 0 9178 0 0
+/tag/advice/
+0 3 0 152059 3 2
+/wp-json/
+0 20 0 1813341 0 0
+/wp-content/plugins/quiz-master-next/js/micromodal.min.js
+0 3 0 10900 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot
+0 18 0 84952 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff
+0 16 0 52780 0 0
+/wp-content/plugins/quiz-master-next/js/jquery.ui.slider-rtl.js
+0 5 0 75532 0 0
+/wp-includes/js/underscore.min.js
+0 3 0 32308 0 0
+/wp-content/plugins/trx_addons/css/trx_addons.animation.css
+0 86 0 6261409 0 0
+/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.svg
+0 18 0 572635 0 0
+/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+0 18 0 326 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff
+0 18 0 52752 0 0
+/wp-includes/wlwmanifest.xml
+0 8 0 7315 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf
+0 16 0 52248 0 0
+/wp-json/wp/v2/pages/1679
+0 1 0 18240 1 1
+/wp-content/themes/prodent/js/__scripts.js
+0 103 0 8064322 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+1 13 0 910 0 0
+/wp-content/plugins/essential-grid/public/assets/images/ajax-loader.gif
+1 13 0 11505 0 0
+/wp-content/plugins/trx_addons/js/swiper/swiper.jquery.min.js
+0 98 0 8108763 0 0
+/wp-content/plugins/js_composer/assets/images/icons/camera.png
+1 13 0 8255 0 0
+/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js
+0 100 0 3176880 0 0
+/wp-content/plugins/quiz-master-next/css/animate.css
+0 5 0 389535 0 0
+/services/respite-for-caregiver-relief/
+0 24 0 1274013 4 2
+/wp-content/plugins/trx_addons/css/images/preloader.gif
+1 13 0 82602 0 0
+/wp-content/uploads/2020/04/volunteer-inner-banner-1.jpg
+1 13 0 919590 0 0
+/wp-content/plugins/top-bar/inc/../js/tpbr_front.js
+0 1 0 15010 0 0
+/wp-content/plugins/revslider/public/assets/css/openhand.cur
+0 18 0 326 0 0
+/wp-includes/js/jquery/ui/button.min.js
+0 101 0 642313 0 0
+/cart/
+0 1 0 49335 1 0
+/wp-content/plugins/revslider/public/assets/assets/loader.gif
+1 64 0 160335 0 0
+/cpt_team-sitemap.xml
+0 1 0 2375 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 100 0 13478052 0 0
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+1 13 0 8983 0 0
+/services/honest-conversations-about-your-health-and-well-being/
+0 2 0 106768 0 0
+/wp-content/plugins/js_composer/assets/vc/remove.png
+1 13 0 3445 0 0
+/favicon.ico
+0 10 0 0 0 0
+/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+1 13 0 1170 0 0
+/wp-content/uploads/2020/03/Volunteer.png
+1 63 0 301630 0 0
+/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+1 13 0 9022 0 0
+/wp-content/plugins/js_composer/assets/vc/info.png
+1 13 0 4199 0 0
+/wp-includes/js/mediaelement/mejs-controls.svg
+0 16 0 32186 0 0
+/wp-content/plugins/quiz-master-next/css/jquery.ui.slider-rtl.css
+0 3 0 1116 0 0
+/testimonials/a-patients-daughter/
+0 8 0 443577 0 0
+/wp-content/themes/prodent/css/__styles.css
+0 102 0 10918965 0 0
+/wp-content/uploads/2020/04/home-health-banner.jpg
+1 5 0 864558 0 0
+/faq/
+0 32 0 2446762 9 2
+/wp-json/wp/v2/pages/2049
+0 1 0 18301 0 0
+/wp-json/oembed/1.0/embed
+0 19 0 72798 0 0
+/test/
+0 8 0 776334 0 0
+/wp-content/plugins/trx_addons/css/trx_addons.css
+0 106 0 26010816 0 0
+/wp-content/plugins/quiz-master-next/assets/clock.png
+1 2 0 6574 0 0
+/wp-json/contact-form-7/v1/contact-forms/2052/feedback
+0 1 0 165 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff
+0 16 0 41468 0 0
+/wp-json/wp/v2/pages/1701
+0 1 0 22757 1 0
+/wp-content/themes/prodent/css/responsive.css
+0 101 0 9797505 0 0
+/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+1 13 0 10933 0 0
+/volunteer/
+0 46 0 3773280 12 6
+/wp-content/themes/prodent/style.css
+0 195 0 25587120 0 0
+/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js
+0 95 0 241108 0 0
+/our-team/
+0 58 0 5311189 15 8
+/wp-includes/js/jquery/ui/mouse.min.js
+0 104 0 276496 0 0
+/cpt_testimonials-sitemap.xml
+0 1 0 1835 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot
+0 32 0 84336 0 0
+/wp-content/uploads/2020/03/Nurse.png
+1 64 0 303408 0 0
+/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.min.js
+0 4 0 45820 0 0
+/wp-includes/css/dashicons.min.css
+0 3 0 177027 0 0
+/home-health/
+0 38 0 2530530 8 7
+/wp-includes/js/mediaelement/wp-mediaelement.min.css
+0 103 0 372554 0 0
+/wp-content/plugins/revslider/public/assets/js/rs6.min.js
+0 106 0 25793268 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg
+0 18 0 95837 0 0
+/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+1 13 0 9100 0 0
+/wp-content/plugins/essential-grid/public/assets/images/loader.gif
+1 13 0 33085 0 0
+/services/in-patient-hospice-care-at-contracted-hospitals-and-facilities/
+0 2 0 107004 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-16.jpg
+1 15 0 308515 0 0
+/wp-includes/js/mediaelement/mediaelement-migrate.min.js
+0 98 0 96633 0 0
+/wp-includes/js/comment-reply.min.js
+0 4 0 9105 0 0
+/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf
+0 18 0 83776 0 0
+/services/
+0 2 0 119352 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-logo.png
+1 77 0 1256964 0 0
+/services_group/our-services/
+0 2 0 119857 0 0
+/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+1 13 0 9828 0 0
+/shop
+0 2 0 102744 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 101 0 338066 0 0
+/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+1 13 0 9165 0 0
+/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.ttf
+0 18 0 407316 0 0
+/wp-content/themes/prodent-child/style.css
+0 99 0 2269572 0 0
+/wp-includes/js/wp-util.min.js
+0 3 0 2158 0 0
+/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+1 13 0 910 0 0
+/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.eot
+0 18 0 408436 0 0
+/our-services/
+0 76 0 6182225 20 10
+/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.min.js
+0 4 0 10224 0 0
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+0 27 0 4378 2 15
+/wp-content/plugins/trx_addons/js/trx_addons.js
+0 96 0 14018641 0 0
+/wp-content/plugins/top-bar/css/topbar_style.css
+0 106 0 36855 0 0
+/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js
+0 97 0 12065436 0 0
+/wp-login.php
+0 220 0 1722248 112 0
+/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+1 36 0 28798 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 88 0 145920 0 0
+/privacy-policy/
+0 29 0 1888602 2 2
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+1 13 0 9919 0 0
+/services/incontinence-wound-care-supplies/
+0 2 0 106379 0 0
+/wp-content/plugins/js_composer/assets/vc/tick.png
+1 13 0 3172 0 0
+/wp-content/plugins/quiz-master-next/css/jquery-ui.css
+0 3 0 96429 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-11.jpg
+1 15 0 824748 0 0
+/wp-includes/js/jquery/jquery.js
+0 93 0 7652967 0 0
+/wp-content/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css
+0 99 0 17662150 0 0
+/wp-includes/js/wp-embed.min.js
+0 91 0 101814 0 0
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 97 0 1213030 0 0
+/wp-content/uploads/2020/04/about-us-banner.jpg
+1 25 0 2302200 0 0
+/wp-includes/js/wp-emoji-release.min.js
+0 101 0 1210910 0 0
+/team/
+0 1 0 57000 1 0
+/wp-includes/js/jquery/ui/datepicker.min.js
+0 101 0 3274200 0 0
+/wp-content/plugins/quiz-master-next/css/common.css
+0 4 0 23884 0 0
+/services/supportive-medical-equipment/
+0 3 0 158606 0 1
+/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+1 13 0 8073 0 0
+/wp-content/plugins/top-bar/js/tpbr_front.js
+0 103 0 1320880 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-3.jpg
+1 29 0 1635856 0 0
+/services/24-hour-on-call-nursing-support/
+0 23 0 1220366 2 3
+/wp-includes/js/mediaelement/wp-mediaelement.min.js
+0 98 0 68932 0 0
+/xmlrpc.php
+0 1208 0 489521 15 20
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+1 13 0 9100 0 0
+/wp-content/plugins/top-bar/js/jquery.cookie.js
+0 103 0 255922 0 0
+/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+1 13 0 9321 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-8.jpg
+1 3 0 92232 0 0
+/my-account/
+0 2 0 103102 0 0
+/wp-content/plugins/trx_addons/js/magnific/magnific-popup.min.css
+0 102 0 494976 0 0
+/wp-content/uploads/2020/03/Social-Worker.png
+1 65 0 327104 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf
+0 16 0 40936 0 0
+/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+1 13 0 8983 0 0
+/wp-content/plugins/trx_addons/components/cpt/layouts/shortcodes/menu/superfish.js
+0 98 0 642620 0 0
+/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+1 13 0 8424 0 0
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+1 13 0 8411 0 0
+/cpt_testimonials_group-sitemap.xml
+0 4 0 3052 0 0
+/wp-content/plugins/js_composer/assets/images/toggle_open.png
+1 13 0 2899 0 0
+/
+0 1143 0 114817199 845 381
+/wp-content/uploads/2020/04/candle-background.jpg
+1 66 0 716448 0 0
+/wp-includes/js/jquery/ui/widget.min.js
+0 104 0 622258 0 0
+/wp-json/wp/v2/pages/34
+0 1 0 12508 0 0
+/wp-content/plugins/quiz-master-next/js/jquery-ui.js
+0 3 0 1041428 0 0
+/wp-content/plugins/js_composer/assets/images/toggle_close.png
+1 13 0 2184 0 0
+/contact-us/
+0 83 0 5292219 20 12
+/wp-content/uploads/2020/03/Routine-Home-Care.png
+1 58 0 118204 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg
+0 16 0 171528 0 0
+/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+1 13 0 7072 0 0
+/chess-4/
+0 3 0 149389 2 2
+/Microsoft-Server-ActiveSync
+0 12 0 0 1 0
+/wp-content/plugins/trx_addons/js/magnific/jquery.magnific-popup.min.js
+0 98 0 1859872 0 0
+/comments/feed/
+0 16 0 12645 3 2
+/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css
+0 94 0 52488 0 0
+/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+1 13 0 7670 0 0
+/care-satisfaction-survey/
+0 32 0 2566634 8 4
+/wp-content/plugins/quiz-master-next/js/qsm-quiz.js
+0 3 0 110140 0 0
+/cpt_services-sitemap.xml
+0 1 0 2472 0 0
+/wp-content/plugins/js_composer/assets/vc/alert.png
+1 13 0 3926 0 0
+/wp-content/plugins/quiz-master-next/templates/qmn_primary.css
+0 4 0 47972 0 0
+/wp-content/plugins/essential-grid/public/assets/font/fontello/fonts/egfont.woff
+0 18 0 240604 0 0
+/cpt_services_group-sitemap.xml
+0 2 0 1528 0 0
+/services/volunteer-support/
+0 2 0 105698 0 0
+/wp-content/uploads/2020/03/About-Us.jpg
+1 70 0 2448132 0 0
+/wp-includes/js/jquery/ui/tooltip.min.js
+0 3 0 11324 0 0
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+1 13 0 8970 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-15.jpg
+1 7 0 487885 0 0
+/wp-content/uploads/2020/04/comfortcarehospice-3-dark.jpg
+1 13 0 976664 0 0
+/robots.txt
+0 156 0 0 0 0
+/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+1 13 0 21918 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-favicon.png
+1 50 0 288120 0 0
+/feed/
+0 67 0 78906 3 26
+/wp-content/themes/prodent/css/font-icons/font/fontello.svg
+0 41 0 4706832 0 0
+/wp-content/plugins/quiz-master-next/css/qsm-admin.css
+0 3 0 82268 0 0
+/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot
+0 16 0 53676 0 0
+/wp-content/plugins/js_composer/changes.txt
+0 16 0 658044 0 0
+/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+0 96 0 40753272 0 0
+/wp-cron.php
+0 232 0 0 187 186
+/wp-content/uploads/2017/07/inner-pages-banner.jpg
+1 46 0 1262118 0 0
+/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+0 98 0 925425 0 0
+/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+1 13 0 9256 0 0
+/wp-content/plugins/js_composer/assets/vc/exclamation.png
+1 13 0 6435 0 0
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+1 13 0 9217 0 0
+/wp-content/plugins/js_composer/assets/images/icons/fire.png
+1 13 0 7878 0 0
+/wp-content/uploads/2020/03/comfortcarehospice-logo2.png
+1 75 0 1975950 0 0
+/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+1 13 0 8944 0 0
+/wp-content/uploads/2020/03/Chaplain-Support.png
+1 63 0 302987 0 0
+/wp-json/wp/v2/pages/36
+0 2 0 74385 1 1
+/services/crisis-care-for-distress-management/
+0 22 0 1168634 3 2
+/wp-content/themes/prodent/css/font-icons/css/fontello-embedded.css
+0 102 0 28501287 0 0
+/readme.html
+0 8 0 58224 0 3
+/wp-includes/css/dist/block-library/style.min.css
+0 106 0 4851630 0 0
+/wp-includes/js/jquery/ui/position.min.js
+0 3 0 12964 0 0
+# End Of Table - urls
+# -sites- (monthly)
+114.119.149.66
+0 1 1 0 0 0
+-
+85.204.121.112
+0 12 11 870794 1 1604302383
+/our-team/
+201.218.121.177
+0 3 3 16071 1 1604377141
+/xmlrpc.php
+104.131.45.126
+0 1 1 109684 1 1604694971
+/
+161.123.93.193
+0 6 4 220978 1 1604193243
+/
+159.89.124.170
+0 3 3 16071 1 1604369042
+/xmlrpc.php
+135.181.61.31
+0 28 28 2938002 0 0
+-
+166.137.125.66
+0 1 1 109354 1 1604839440
+/
+68.142.229.228
+0 7 7 826345 1 1604816332
+/
+103.85.24.144
+0 5 5 161643 1 1604289767
+/
+66.249.79.185
+0 1 0 241 1 1604416474
+/
+66.249.88.73
+0 23 21 995640 2 1604748324
+/
+159.89.196.206
+0 1 0 113 1 1604854625
+-
+35.175.255.119
+0 2 2 109663 1 1604564746
+/
+72.14.199.1
+0 228 227 18500972 59 1604857782
+/
+72.14.199.27
+0 7 7 468646 2 1604641422
+/
+45.64.96.171
+0 1 1 109664 1 1604304568
+/
+51.161.120.149
+0 2 1 109822 1 1604823680
+/
+39.99.54.47
+0 1 0 48133 0 0
+-
+54.161.158.140
+0 2 2 109885 1 1604377451
+/
+47.184.6.103
+0 8 0 0 0 0
+-
+108.174.8.23
+0 1 0 48132 0 0
+-
+135.181.89.69
+0 1 0 48132 1 1604834863
+-
+135.181.59.116
+0 12 12 1560944 0 0
+-
+73.244.72.210
+0 1 1 109881 1 1604503745
+/
+114.119.151.233
+0 1 1 0 0 0
+-
+185.73.182.169
+0 1 1 109667 1 1604490172
+/
+34.71.108.229
+0 14 14 1390275 0 0
+-
+54.234.246.145
+0 2 2 109662 1 1604861559
+/
+3.81.115.100
+0 2 2 109893 1 1604330441
+/
+185.217.149.156
+0 69 55 3833947 1 1604398461
+/
+67.195.177.241
+0 24 23 984507 1 1604692459
+/
+35.185.19.233
+0 4 3 109818 1 1604305269
+/
+152.32.107.61
+0 2 1 0 1 1604410871
+/
+64.135.127.52
+0 2 1 109809 1 1604599912
+/
+23.101.3.215
+0 3 3 16071 1 1604298511
+/xmlrpc.php
+157.55.39.236
+0 1 1 53197 1 1604614350
+/services/bereavement-and-emotional-support/
+161.35.158.191
+0 6 6 32142 2 1604378854
+/xmlrpc.php
+54.89.145.119
+0 1 1 109580 1 1604760584
+/
+38.110.213.114
+0 2 2 115461 1 1604402768
+/
+93.158.161.44
+0 4 4 365927 3 1604518094
+/wp-json/wp/v2/pages/36
+34.204.84.24
+0 2 2 109678 1 1604573014
+/
+209.61.160.96
+0 143 95 10431399 37 1604872248
+-
+97.105.23.122
+0 4 4 541101 1 1604567158
+/
+54.162.100.225
+0 2 2 109667 1 1604572948
+/
+35.226.85.227
+0 12 11 910486 1 1604680709
+/faq/
+74.196.181.27
+0 2 2 218721 1 1604498618
+/
+3.82.66.219
+0 2 2 109662 1 1604455572
+/
+40.77.188.35
+0 19 4 469356 0 0
+-
+36.90.55.248
+0 1 1 403 1 1604384841
+/xmlrpc.php
+54.36.148.55
+0 1 1 0 0 0
+-
+52.148.134.53
+0 11 0 527080 1 1604320463
+-
+81.208.42.32
+0 1 0 48131 1 1604365910
+-
+185.135.214.237
+0 52 50 4160508 1 1604416448
+-
+35.184.232.231
+0 58 58 6619647 5 1604798657
+/
+88.198.91.76
+0 4 0 97022 1 1604289858
+-
+20.151.2.142
+0 2 1 157690 1 1604369386
+/
+92.119.230.153
+0 2 2 219324 2 1604808424
+/
+67.205.31.50
+0 6 6 32146 2 1604460690
+/xmlrpc.php
+142.44.212.33
+0 2 0 96263 1 1604370731
+-
+172.58.107.182
+0 2 0 0 0 0
+-
+136.243.59.237
+0 4 3 191837 2 1604319177
+/testimonials/
+172.56.6.97
+0 38 33 2650243 1 1604769781
+/
+104.37.27.10
+0 4 4 551568 1 1604398454
+/
+45.76.69.88
+0 1 1 109675 1 1604819547
+/
+205.209.241.187
+0 3 3 414822 1 1604573094
+/
+17.58.99.66
+0 1 1 144560 0 0
+-
+72.14.199.124
+0 1 1 763 0 0
+-
+172.84.98.94
+0 67 63 4800043 1 1604492450
+/
+93.158.161.48
+0 2 2 147919 1 1604518072
+/our-services/
+103.18.56.172
+0 3 3 16075 1 1604483901
+/xmlrpc.php
+172.241.142.96
+0 2 2 132314 1 1604298291
+/contact-us/
+66.220.149.23
+0 1 1 109574 1 1604505721
+/
+66.249.79.7
+0 5 0 48226 0 0
+-
+185.121.69.42
+0 5 0 145170 1 1604362752
+-
+113.210.49.19
+0 1 0 48195 1 1604322195
+-
+168.235.87.209
+0 2 2 115557 1 1604242961
+/
+95.216.9.16
+0 72 66 5043065 1 1604740746
+/
+3.81.110.249
+0 2 2 109666 1 1604859549
+/
+142.93.71.71
+0 24 21 1362162 3 1604233332
+/care-satisfaction-survey/
+54.36.149.58
+0 1 1 72563 1 1604471710
+/testimonials/
+202.92.5.121
+0 3 3 16081 1 1604221564
+/xmlrpc.php
+160.153.235.196
+0 3 3 16071 1 1604338226
+/xmlrpc.php
+191.96.242.134
+0 115 112 3873823 1 1604674988
+/
+211.176.125.70
+0 2 1 109819 2 1604677983
+/
+103.205.140.166
+0 2 0 48362 2 1604476318
+-
+34.106.199.158
+0 6 6 32150 2 1604543401
+/xmlrpc.php
+114.119.157.111
+0 1 1 0 0 0
+-
+3.86.51.211
+0 2 2 109671 1 1604230448
+/
+158.46.215.9
+0 1 1 109658 1 1604348675
+/
+80.76.53.90
+0 2 2 51925 0 0
+-
+152.44.102.245
+0 2 2 300743 0 0
+-
+181.215.79.199
+0 5 5 258444 0 0
+-
+107.172.232.135
+0 2 2 294981 0 0
+-
+54.89.0.66
+0 2 2 109874 1 1604478559
+/
+54.81.1.14
+0 2 2 109655 1 1604766214
+/
+3.24.209.220
+0 1 1 109671 1 1604376541
+/
+103.49.86.2
+0 48 46 4200052 1 1604416946
+-
+66.249.79.9
+0 2 2 109475 1 1604713335
+/
+66.249.88.83
+0 1 0 241 1 1604748320
+/
+76.187.119.168
+0 62 20 998296 1 1604519351
+/
+38.90.148.206
+0 120 89 2745818 1 1604634731
+/
+207.46.13.115
+0 17 9 1131702 2 1604880149
+-
+34.227.99.111
+0 2 2 109886 1 1604513659
+/
+35.173.138.229
+0 1 1 109564 1 1604372434
+/
+71.120.83.220
+0 26 24 2157997 1 1604505553
+/
+89.187.181.71
+0 1 0 48133 1 1604654442
+-
+17.58.96.152
+0 5 5 423083 4 1604294618
+/faq/
+77.88.5.29
+0 3 2 65317 1 1604518093
+/wp-json/wp/v2/pages/34
+54.162.135.88
+0 2 2 109891 1 1604498837
+/
+209.97.61.11
+0 7 7 767387 7 1604880555
+/
+159.69.109.52
+0 6 3 4704 3 1604522913
+/feed/
+166.137.136.75
+0 3 1 109886 1 1604629426
+/
+166.137.139.107
+0 72 70 5518005 1 1604484552
+/join-our-team/
+212.204.205.25
+0 3 3 16081 1 1604258906
+/xmlrpc.php
+80.19.177.242
+0 3 3 16075 1 1604477036
+/xmlrpc.php
+3.92.169.122
+0 2 2 109887 1 1604313921
+/
+39.104.207.247
+0 6 1 192899 3 1604666563
+-
+40.77.188.59
+0 1 1 1434 0 0
+-
+62.210.79.117
+0 3 3 16075 1 1604504028
+/xmlrpc.php
+45.61.164.241
+0 4 3 132856 1 1604197714
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+54.212.179.193
+0 85 70 4445740 1 1604557102
+/privacy-policy/
+194.5.1.143
+0 1 1 109672 1 1604304569
+/
+17.58.99.56
+0 1 1 14246 0 0
+-
+145.239.11.53
+0 6 6 32146 2 1604545635
+/xmlrpc.php
+134.122.122.112
+0 3 3 16071 1 1604273425
+/xmlrpc.php
+66.249.79.181
+0 2 1 241 1 1604331895
+/
+13.59.247.123
+0 3 3 16075 1 1604504781
+/xmlrpc.php
+18.209.162.194
+0 2 2 109654 1 1604838776
+/
+108.179.253.45
+0 2 0 48518 1 1604284079
+-
+45.58.52.43
+0 82 69 569448 1 1604557366
+/
+4.16.245.211
+0 1 1 109668 1 1604436648
+/
+157.55.39.43
+0 2 2 0 0 0
+-
+207.148.31.137
+0 1 0 241 1 1604505314
+/
+217.160.172.194
+0 2 0 48503 0 0
+-
+104.164.41.192
+0 44 20 262088 1 1604193283
+/
+52.90.16.195
+0 2 2 109667 1 1604886894
+/
+47.183.195.251
+0 12 6 559129 1 1604791635
+/
+132.255.26.84
+0 1 0 48194 1 1604322190
+-
+173.252.95.10
+0 1 1 81328 1 1604290077
+/our-services/
+95.163.255.7
+0 1 1 763 0 0
+-
+54.191.137.17
+0 43 22 2799003 0 0
+-
+74.6.40.30
+0 13 12 879496 1 1604490152
+/
+35.173.182.113
+0 2 2 109654 1 1604849466
+/
+68.233.232.101
+0 22 22 1311272 1 1604499988
+/
+172.69.26.146
+0 1 0 48228 0 0
+-
+139.59.138.40
+0 2 1 109916 1 1604247990
+/
+49.50.250.83
+0 3 3 16071 1 1604346084
+/xmlrpc.php
+76.185.99.4
+0 94 37 3529763 2 1604588484
+/
+77.88.5.250
+0 3 3 5520 1 1604518054
+/comments/feed/
+152.44.98.168
+0 1 1 82045 1 1604381472
+/volunteer/
+192.35.168.96
+0 2 1 109821 1 1604728508
+/
+54.197.11.79
+0 2 2 109668 1 1604824513
+/
+136.243.111.28
+0 1 1 109566 1 1604301960
+/
+104.219.180.194
+0 80 23 1642130 1 1604340006
+/faq/
+72.14.199.57
+0 1 0 241 1 1604266156
+/
+159.65.174.54
+0 2 1 0 1 1604758643
+/
+77.88.5.225
+0 3 2 150348 2 1604736411
+/covid-19/
+66.249.88.81
+0 1 0 241 1 1604512940
+/
+77.88.5.135
+0 3 3 170607 1 1604518038
+/self-assessment-questionnaire/
+74.125.210.46
+0 1 1 109698 1 1604627229
+/
+192.99.212.104
+0 3 3 16075 1 1604569554
+/xmlrpc.php
+104.177.177.147
+0 5 3 129476 1 1604355747
+/
+104.130.141.73
+0 13 9 236797 3 1604200849
+/xmlrpc.php
+198.20.168.229
+0 1 1 154051 0 0
+-
+40.77.189.229
+0 1 1 12663 0 0
+-
+72.14.199.155
+0 1 0 241 1 1604584068
+/
+185.97.3.146
+0 4 1 109663 1 1604292064
+/
+51.178.51.61
+0 3 0 48691 1 1604727339
+/
+185.30.177.236
+0 4 0 145173 0 0
+-
+17.58.99.78
+0 1 1 112615 0 0
+-
+13.66.139.19
+0 13 11 594108 8 1604872902
+/tag/advice/
+40.77.188.224
+0 1 1 711652 0 0
+-
+93.158.161.11
+0 4 4 303925 2 1604518049
+/care-satisfaction-survey/
+34.203.40.2
+0 2 1 110009 1 1604535782
+/
+162.243.29.24
+0 1 0 48132 1 1604552870
+-
+89.252.191.172
+0 3 3 16075 1 1604501065
+/xmlrpc.php
+109.162.250.134
+0 1 1 403 1 1604868352
+/xmlrpc.php
+54.158.10.206
+0 2 2 109888 1 1604310143
+/
+17.58.99.55
+0 1 1 1920 0 0
+-
+31.132.220.2
+0 2 2 109731 1 1604752335
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+34.74.20.92
+0 3 3 109565 1 1604846354
+/
+54.80.224.128
+0 2 2 109664 1 1604475863
+/
+152.44.107.249
+0 1 1 3931 0 0
+-
+69.31.136.214
+0 43 43 3868527 0 0
+-
+135.181.19.219
+0 7 7 563338 0 0
+-
+66.249.65.170
+0 1 0 241 1 1604308551
+/
+74.125.210.62
+0 1 0 48133 0 0
+-
+191.101.88.237
+0 1 0 241 1 1604411594
+/
+68.142.229.238
+0 58 56 5124509 2 1604816339
+/
+207.46.13.135
+0 10 5 634772 1 1604775295
+/
+66.249.79.24
+0 29 28 2031751 10 1604827846
+/
+45.58.43.178
+0 2 2 147692 1 1604826826
+/
+172.241.116.211
+0 2 1 109808 1 1604298288
+/
+54.208.229.162
+0 2 2 109885 1 1604379345
+/
+66.249.88.90
+0 1 1 5880 0 0
+-
+107.175.70.59
+0 1 1 1434 0 0
+-
+223.189.66.222
+0 2 0 48510 0 0
+-
+34.230.56.77
+0 2 2 109888 1 1604301527
+/
+31.132.211.144
+0 8 8 438917 3 1604420065
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+174.255.133.242
+0 3 3 431422 1 1604340802
+/
+172.81.112.106
+0 1 1 6838 0 0
+-
+172.58.107.201
+0 16 15 1623950 1 1604821732
+/
+3.81.63.242
+0 2 2 109874 1 1604674212
+/
+192.171.84.85
+0 1 1 3121 0 0
+-
+138.128.6.254
+0 1 1 24404 0 0
+-
+54.36.148.46
+0 1 1 0 0 0
+-
+80.244.175.2
+0 9 9 48243 2 1604229730
+/xmlrpc.php
+54.36.148.63
+0 1 1 66605 1 1604440852
+/home-health/
+195.201.117.103
+0 1 0 48131 0 0
+-
+45.33.59.238
+0 1 0 380 0 0
+-
+172.58.111.212
+0 1 1 109343 1 1604353442
+/
+199.34.83.112
+0 2 2 165476 0 0
+-
+54.152.47.159
+0 2 2 109876 1 1604424052
+/
+168.235.65.3
+0 1 1 109887 1 1604675198
+/
+216.250.236.11
+0 1 0 48129 1 1604208388
+-
+52.91.84.60
+0 2 2 109663 1 1604828855
+/
+76.8.212.234
+0 63 9 440487 1 1604685686
+/our-team/
+35.175.193.43
+0 2 2 109658 1 1604339983
+/
+34.207.100.20
+0 2 2 109674 1 1604493703
+/
+4.16.243.250
+0 50 50 3464685 2 1604819088
+/
+184.154.76.23
+0 38 28 2314913 1 1604857285
+/readme.html
+168.151.100.60
+0 1 1 109676 1 1604304597
+/
+188.166.56.218
+0 9 9 48217 3 1604578145
+/xmlrpc.php
+50.58.250.20
+0 4 3 338539 1 1604298481
+/
+45.92.0.92
+0 47 45 4102965 1 1604418962
+-
+185.25.48.81
+0 2 2 109722 1 1604384848
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+176.9.99.241
+0 1 1 109580 1 1604301963
+/
+93.158.161.41
+0 2 2 0 0 0
+-
+166.137.125.110
+0 1 1 109668 1 1604208247
+/
+54.144.58.54
+0 2 2 109883 1 1604684958
+/
+178.17.174.198
+0 1 0 48132 1 1604343165
+-
+77.88.5.62
+0 1 1 0 0 0
+-
+117.50.2.17
+0 6 5 438514 1 1604576630
+/
+35.233.115.113
+0 2 1 109803 2 1604662757
+/
+206.217.141.247
+0 2 1 3121 0 0
+-
+67.205.129.52
+0 3 3 16081 1 1604242642
+/xmlrpc.php
+72.9.4.38
+0 1 1 109359 1 1604262150
+/
+95.215.55.110
+0 2 0 48560 0 0
+-
+38.145.81.85
+0 1 1 109653 1 1604495299
+/
+166.137.143.123
+0 1 1 109669 1 1604747417
+/
+107.152.139.200
+0 1 1 907 0 0
+-
+172.93.174.192
+0 150 132 2177798 1 1604193807
+/
+66.201.170.6
+0 57 56 4541853 1 1604536444
+/faq/
+66.249.79.175
+0 2 1 376 0 0
+-
+77.88.5.108
+0 1 0 393 1 1604517809
+-
+35.237.229.226
+0 57 47 2640086 2 1604745246
+/home-health/
+4.28.121.187
+0 13 13 2264609 1 1604390032
+/
+172.69.26.80
+0 1 0 48227 0 0
+-
+173.252.79.8
+0 1 1 0 0 0
+-
+188.165.247.31
+0 3 3 16071 1 1604257479
+/xmlrpc.php
+169.55.154.150
+0 69 69 5205156 1 1604626977
+/
+72.14.199.19
+0 2 2 1526 0 0
+-
+73.157.50.72
+0 8 8 709908 2 1604666219
+/
+85.10.194.210
+0 4 2 3136 2 1604550016
+/feed/
+167.172.151.80
+0 3 3 16071 1 1604337302
+/xmlrpc.php
+114.119.148.102
+0 1 1 0 0 0
+-
+88.208.228.77
+0 1 0 48130 1 1604248716
+-
+184.154.139.25
+0 86 61 4670296 2 1604597952
+/readme.html
+67.8.111.226
+0 1 0 0 1 1604570339
+-
+54.36.148.58
+0 1 0 381 1 1604365615
+-
+54.162.106.252
+0 2 2 109674 1 1604209944
+/
+72.14.199.23
+0 52 52 4796413 1 1604379623
+/
+66.249.83.94
+0 3 1 110182 2 1604418257
+/
+80.82.68.201
+0 1 0 0 1 1604501142
+-
+104.196.140.128
+0 29 24 1320035 1 1604724373
+/home-health/
+85.140.87.28
+0 1 0 48131 1 1604850447
+-
+209.97.129.90
+0 2 0 96264 2 1604538563
+-
+95.163.255.6
+0 1 1 0 0 0
+-
+185.12.45.116
+0 2 0 48505 1 1604343149
+-
+4.28.121.186
+0 50 50 3329967 2 1604799970
+/
+54.36.148.104
+0 8 6 477618 8 1604859086
+/
+177.237.133.233
+0 1 1 109670 1 1604301956
+/
+54.174.54.171
+0 2 1 0 1 1604500000
+/
+216.144.248.186
+0 3 3 16075 1 1604563828
+/xmlrpc.php
+157.52.196.158
+0 1 1 109873 1 1604398455
+/
+185.135.214.45
+0 47 45 4102964 1 1604416518
+-
+54.166.168.175
+0 2 2 109674 1 1604328092
+/
+172.69.24.82
+0 1 0 48229 0 0
+-
+54.85.126.191
+0 2 2 109886 1 1604696193
+/
+24.227.199.170
+0 3 0 0 0 0
+-
+198.148.27.35
+0 2 1 109802 1 1604524762
+/
+209.182.192.194
+0 3 3 16075 1 1604488016
+/xmlrpc.php
+35.196.204.24
+0 3 2 219395 1 1604821426
+/
+49.35.21.45
+0 1 0 378 0 0
+-
+73.102.127.137
+0 1 1 109886 1 1604473379
+/
+66.220.149.1
+0 1 1 66163 1 1604378488
+/contact-us/
+66.249.79.26
+0 22 22 2999702 9 1604840075
+/
+36.232.224.198
+0 1 1 5880 0 0
+-
+140.238.94.137
+0 1 1 0 0 0
+-
+17.58.59.23
+0 1 1 109581 1 1604436241
+/
+54.234.208.47
+0 2 2 109676 1 1604202011
+/
+135.181.22.116
+0 22 22 2762983 0 0
+-
+38.70.234.139
+0 23 23 1281450 1 1604292022
+/
+75.70.38.54
+0 1 1 109580 1 1604532796
+/
+173.252.79.117
+0 1 1 109562 1 1604378398
+/
+66.249.88.76
+0 22 19 2140190 1 1604851138
+/
+54.146.41.190
+0 2 2 109893 1 1604387770
+/
+172.69.25.69
+0 1 0 48229 0 0
+-
+154.16.135.84
+0 1 1 109879 1 1604290447
+/
+17.58.99.79
+0 1 1 96873 0 0
+-
+34.82.103.126
+0 2 2 219274 1 1604360876
+/
+207.46.13.45
+0 2 2 174652 0 0
+-
+107.77.90.50
+0 12 12 1331156 1 1604319036
+/
+34.74.125.177
+0 3 2 109806 1 1604483263
+/
+209.17.97.34
+0 1 0 242 1 1604387717
+/
+40.77.188.52
+0 1 1 648 0 0
+-
+77.88.5.167
+0 4 4 223653 2 1604567759
+/
+207.46.13.132
+0 13 11 507794 1 1604755675
+/faq/
+172.69.28.222
+0 1 0 48229 0 0
+-
+51.116.132.197
+0 6 6 32150 2 1604523357
+/xmlrpc.php
+3.81.163.19
+0 2 2 109662 1 1604521883
+/
+104.196.141.147
+0 4 3 109821 1 1604583168
+/
+157.230.164.216
+0 3 3 16075 1 1604500379
+/xmlrpc.php
+34.95.148.137
+0 3 3 16071 1 1604351053
+/xmlrpc.php
+104.200.77.28
+0 33 6 915609 1 1604232944
+/
+181.192.1.223
+0 3 3 16075 1 1604501835
+/xmlrpc.php
+54.36.148.61
+0 2 2 53093 1 1604551142
+/services/respite-for-caregiver-relief/
+61.101.130.209
+0 2 2 175748 1 1604656959
+/contact-us/
+149.62.172.42
+0 1 1 109579 1 1604249312
+/
+51.79.157.254
+0 3 3 16075 1 1604474084
+/xmlrpc.php
+88.198.242.184
+0 2 0 48542 1 1604212262
+-
+54.85.101.246
+0 2 2 109874 1 1604415970
+/
+46.4.129.54
+0 2 0 96264 2 1604764920
+-
+72.14.199.118
+0 250 250 22563844 18 1604820835
+/
+192.35.168.16
+0 1 1 109562 1 1604739492
+/
+18.232.120.223
+0 2 2 109671 1 1604648762
+/
+172.96.81.174
+0 1 1 3142 0 0
+-
+93.158.161.36
+0 4 3 204644 2 1604518081
+/our-team/
+4.28.121.189
+0 62 62 4276206 1 1604240880
+/
+54.204.157.188
+0 2 2 109892 1 1604456946
+/
+198.46.180.60
+0 52 50 4160511 1 1604416270
+-
+77.88.5.154
+0 4 4 520302 2 1604652683
+/
+52.125.128.1
+0 19 12 289967 1 1604401714
+/Microsoft-Server-ActiveSync
+173.252.87.6
+0 1 1 5880 0 0
+-
+40.77.188.88
+0 1 1 96873 0 0
+-
+77.88.5.130
+0 4 3 111020 2 1604755377
+/
+93.158.161.9
+0 6 5 189980 2 1604736408
+/self-assessment-questionnaire/
+93.158.161.37
+0 3 2 109950 2 1604652674
+/
+165.225.216.255
+0 8 8 278079 1 1604577750
+/contact-us/
+147.139.161.210
+0 2 1 109818 1 1604704322
+/
+68.234.44.221
+0 2 1 82667 1 1604381469
+-
+54.36.148.109
+0 1 1 0 0 0
+-
+73.0.91.243
+0 1 1 109676 1 1604644390
+/
+65.255.137.188
+0 3 3 16075 1 1604479022
+/xmlrpc.php
+172.69.26.217
+0 1 0 48230 0 0
+-
+71.57.77.133
+0 3 0 0 0 0
+-
+17.58.96.248
+0 3 3 0 0 0
+-
+122.201.97.17
+0 2 0 48507 1 1604379999
+-
+51.83.216.204
+0 1 0 228 1 1604331584
+-
+143.244.43.27
+0 16 0 387929 0 0
+-
+77.88.5.100
+0 1 1 82046 1 1604518078
+/volunteer/
+173.254.24.43
+0 1 0 303 1 1604446014
+-
+77.88.5.229
+0 4 4 122485 1 1604518064
+/wp-json/
+66.249.79.120
+0 1 1 109353 1 1604379727
+/
+172.58.108.146
+0 3 3 329015 1 1604493822
+/
+139.59.29.96
+0 3 3 16075 1 1604512555
+/xmlrpc.php
+103.55.33.21
+0 3 3 16075 1 1604466060
+/xmlrpc.php
+209.17.97.98
+0 1 1 109571 1 1604629019
+/
+178.62.31.152
+0 3 3 16075 1 1604468811
+/xmlrpc.php
+52.211.58.58
+0 10 0 0 0 0
+-
+168.91.11.10
+0 1 1 17762 0 0
+-
+135.181.16.218
+0 11 11 835716 0 0
+-
+74.125.210.32
+0 1 0 48130 0 0
+-
+67.195.177.65
+0 6 6 450983 1 1604461570
+/
+107.77.173.20
+0 28 28 3479969 1 1604761223
+/
+95.216.15.49
+0 2 1 109592 1 1604662205
+/
+199.188.200.178
+0 1 1 403 1 1604739701
+/xmlrpc.php
+39.98.74.86
+0 1 0 48132 0 0
+-
+124.105.155.202
+0 25 20 904040 1 1604251673
+/
+35.164.143.143
+0 3 1 110061 1 1604301981
+/
+34.212.217.207
+0 3 2 109804 1 1604521144
+/
+172.69.28.20
+0 1 0 48230 0 0
+-
+107.23.238.11
+0 2 2 109667 1 1604810565
+/
+35.243.206.211
+0 4 3 109804 1 1604844308
+/
+66.249.79.177
+0 1 0 376 0 0
+-
+175.44.42.167
+0 1 0 2842 1 1604403607
+-
+51.79.74.175
+0 4 2 219748 1 1604540420
+/
+34.207.105.131
+0 2 2 109884 1 1604402249
+/
+8.28.7.20
+0 184 178 13230453 9 1604886926
+/
+73.177.121.88
+0 3 3 200628 1 1604484717
+/contact-us/
+103.195.39.26
+0 17 3 413288 0 0
+-
+31.13.103.117
+0 1 1 82045 1 1604202607
+/volunteer/
+89.197.97.87
+0 1 1 109704 1 1604669689
+/
+157.55.39.198
+0 29 20 1322322 3 1604775796
+/our-services/
+34.229.98.80
+0 2 2 109884 1 1604687948
+/
+13.82.44.112
+0 1 1 109579 1 1604622810
+/
+162.248.16.14
+0 148 144 11433818 4 1604559494
+/
+66.249.65.206
+0 1 1 0 0 0
+-
+114.6.41.72
+0 2 2 8025 1 1604357614
+/xmlrpc.php
+176.109.236.207
+0 1 0 48134 1 1604746653
+-
+54.36.148.16
+0 1 1 70000 1 1604455744
+/join-our-team/
+192.227.214.66
+0 1 1 33230 0 0
+-
+172.69.27.73
+0 1 0 48229 0 0
+-
+54.237.228.228
+0 2 2 109661 1 1604810175
+/
+151.235.145.36
+0 1 1 403 1 1604617181
+/xmlrpc.php
+3.80.196.33
+0 2 2 109669 1 1604390974
+/
+66.229.95.88
+0 10 10 233091 1 1604565842
+/
+67.195.177.103
+0 27 26 1391714 1 1604604007
+/
+40.77.190.110
+0 2 2 214775 0 0
+-
+1.0.156.121
+0 1 1 403 1 1604461067
+/xmlrpc.php
+40.77.189.225
+0 1 1 24404 0 0
+-
+66.249.83.85
+0 4 4 230911 2 1604418258
+/
+77.88.5.116
+0 4 4 182559 2 1604593005
+/
+173.252.127.13
+0 1 1 109639 1 1604542208
+/
+107.242.125.56
+0 1 1 109656 1 1604861858
+/
+40.77.190.49
+0 2 2 85410 0 0
+-
+93.158.161.20
+0 3 2 113368 2 1604887088
+/
+35.196.143.73
+0 27 23 1253479 1 1604876406
+/home-health/
+68.142.229.232
+0 6 5 336388 1 1604741030
+/
+67.183.167.108
+0 2 2 127317 1 1604405674
+/
+172.69.29.29
+0 1 0 48225 0 0
+-
+172.69.24.91
+0 1 0 48227 0 0
+-
+35.240.186.135
+0 3 3 16071 1 1604379738
+/xmlrpc.php
+54.36.148.203
+0 1 1 109697 1 1604326295
+/
+94.177.167.136
+0 20 2 169425 10 1604848213
+/
+195.154.123.6
+0 48 31 3284706 1 1604326300
+/
+191.252.185.104
+0 1 1 403 1 1604421366
+/xmlrpc.php
+193.56.28.29
+0 2 1 110014 1 1604635833
+/
+52.142.45.135
+0 4 0 97054 1 1604503089
+-
+54.36.148.184
+0 1 1 0 0 0
+-
+24.27.75.161
+0 1 1 109363 1 1604349805
+/
+54.164.195.217
+0 2 2 109661 1 1604197849
+/
+199.250.215.11
+0 3 3 16075 1 1604447444
+/xmlrpc.php
+35.227.92.95
+0 58 48 2640061 2 1604441582
+/home-health/
+130.211.193.209
+0 4 4 407964 3 1604858330
+/
+207.46.13.137
+0 1 0 48133 1 1604884590
+-
+198.20.103.242
+0 1 1 109694 1 1604582442
+/
+65.181.112.202
+0 120 90 2608054 1 1604808247
+/
+3.25.30.128
+0 3 3 16071 1 1604287247
+/xmlrpc.php
+69.171.251.24
+0 1 1 109569 1 1604287285
+/
+105.112.33.178
+0 60 44 3375735 1 1604837792
+/our-team/
+92.119.230.52
+0 1 1 109676 1 1604495311
+/
+72.14.199.122
+0 58 58 5795537 27 1604842056
+/
+24.155.247.52
+0 8 8 282576 2 1604660274
+/
+54.165.250.59
+0 2 2 109671 1 1604755238
+/
+35.185.124.194
+0 3 3 16081 1 1604211711
+/xmlrpc.php
+67.195.177.246
+0 3 3 329652 1 1604461618
+/
+69.171.251.23
+0 1 1 109574 1 1604505721
+/
+4.16.246.130
+0 89 89 5906514 2 1604761385
+/
+66.249.79.179
+0 1 1 0 0 0
+-
+140.238.95.47
+0 1 1 109565 1 1604692633
+/
+3.86.5.137
+0 2 2 109663 1 1604683904
+/
+4.15.238.163
+0 150 150 9980274 3 1604241595
+/
+201.249.117.196
+0 1 1 403 1 1604206771
+/xmlrpc.php
+47.24.68.57
+0 2 2 218709 2 1604760229
+/
+103.69.217.182
+0 25 4 498853 0 0
+-
+79.143.111.230
+0 1 0 48195 1 1604322200
+-
+135.181.59.117
+0 2 2 162322 0 0
+-
+209.251.19.5
+0 1 0 0 0 0
+-
+198.12.250.116
+0 3 3 16075 1 1604509366
+/xmlrpc.php
+64.71.131.244
+0 6 3 329832 3 1604693582
+/
+135.181.36.161
+0 1 0 48131 1 1604840288
+-
+3.89.83.89
+0 2 2 109885 1 1604300075
+/
+23.100.33.221
+0 23 0 531504 1 1604261181
+-
+66.249.88.70
+0 2 2 115443 1 1604748324
+/
+159.69.183.149
+0 6 3 4704 3 1604787772
+/feed/
+54.167.199.132
+0 2 2 109666 1 1604382700
+/
+18.208.173.47
+0 2 2 109880 1 1604324675
+/
+172.58.11.203
+0 1 1 94625 0 0
+-
+198.211.98.90
+0 3 3 16075 1 1604464250
+/xmlrpc.php
+159.69.109.50
+0 10 5 7840 5 1604804119
+/feed/
+168.119.12.240
+0 1 1 109583 1 1604301962
+/
+110.36.239.234
+0 1 0 48128 1 1604727481
+-
+209.17.97.114
+0 1 0 242 1 1604373778
+/
+128.199.127.191
+0 3 3 16071 1 1604284205
+/xmlrpc.php
+54.70.40.11
+0 3 3 109694 1 1604193184
+/
+17.58.96.153
+0 44 44 3182459 3 1604879736
+/services/respite-for-caregiver-relief/
+172.4.85.118
+0 48 47 3489033 1 1604655018
+/our-team/
+40.77.190.20
+0 1 1 485158 0 0
+-
+167.71.111.177
+0 1 0 48130 0 0
+-
+185.220.102.241
+0 3 0 48892 1 1604343123
+-
+41.93.82.7
+0 3 3 16075 1 1604484933
+/xmlrpc.php
+134.209.229.36
+0 3 3 16081 1 1604211175
+/xmlrpc.php
+88.99.103.122
+0 1 1 109558 1 1604301964
+/
+209.61.160.121
+0 132 84 7802864 37 1604850451
+-
+209.191.218.132
+0 1 0 0 0 0
+-
+39.99.155.106
+0 1 1 7624 1 1604518202
+/wp-login.php
+88.80.59.118
+0 2 0 48133 2 1604731398
+-
+3.84.75.130
+0 2 2 109861 1 1604483112
+/
+172.69.27.154
+0 1 0 48227 0 0
+-
+94.130.15.182
+0 8 7 815801 0 0
+-
+35.240.116.244
+0 1 1 109571 1 1604240584
+/
+35.222.233.88
+0 1 1 109671 1 1604661699
+/
+223.227.76.36
+0 3 0 0 0 0
+-
+193.70.33.51
+0 3 3 16081 1 1604215956
+/xmlrpc.php
+172.69.26.72
+0 1 0 48228 0 0
+-
+66.249.79.127
+0 66 28 2155865 13 1604659098
+/
+45.55.65.221
+0 3 3 16071 1 1604285260
+/xmlrpc.php
+50.58.207.7
+0 13 12 1040026 1 1604331535
+/testimonials/
+34.226.219.186
+0 2 2 109672 1 1604664443
+/
+202.38.175.180
+0 4 4 366313 0 0
+-
+184.154.139.24
+0 88 61 4671115 2 1604684527
+/readme.html
+3.8.89.59
+0 3 3 16075 1 1604451406
+/xmlrpc.php
+176.9.140.11
+0 1 1 109567 1 1604301958
+/
+34.68.27.50
+0 1 1 109659 1 1604732966
+/
+109.70.100.48
+0 2 0 48508 1 1604343193
+-
+107.242.125.28
+0 2 2 111602 1 1604477969
+/
+192.186.159.201
+0 1 1 648 0 0
+-
+103.123.150.122
+0 1 1 8046 1 1604357612
+/wp-login.php
+98.136.225.77
+0 3 3 136357 1 1604630440
+/
+151.138.13.148
+0 2 2 219155 1 1604603010
+/
+4.28.121.188
+0 51 51 4083108 2 1604781108
+/
+199.34.86.236
+0 1 1 82043 1 1604256744
+/volunteer/
+40.77.189.2
+0 1 1 36380 0 0
+-
+79.173.90.153
+0 2 2 219144 1 1604863961
+/
+40.77.190.129
+0 18 18 1624497 0 0
+-
+74.125.210.44
+0 3 2 219721 1 1604627229
+/
+115.178.23.100
+0 4 4 164656 1 1604376547
+/
+193.160.73.216
+0 2 1 109668 1 1604808383
+/
+157.55.39.39
+0 18 18 0 0 0
+-
+107.172.146.236
+0 1 1 405 0 0
+-
+31.148.122.251
+0 1 1 403 1 1604520886
+/xmlrpc.php
+67.195.177.101
+0 3 3 329642 1 1604805491
+/
+172.69.25.79
+0 1 0 48230 0 0
+-
+107.117.192.85
+0 1 1 109655 1 1604757417
+/
+77.88.5.172
+0 3 3 103341 2 1604688644
+/contact-us/
+135.181.22.115
+0 23 23 1549720 0 0
+-
+194.78.0.136
+0 5 5 392904 1 1604536452
+/faq/
+77.88.5.232
+0 1 1 109558 1 1604879857
+/
+172.58.111.30
+0 1 1 109668 1 1604485120
+/
+54.36.149.78
+0 1 1 0 0 0
+-
+200.219.152.226
+0 1 0 48130 1 1604613952
+-
+172.58.235.19
+0 60 58 3694374 1 1604516172
+/
+18.206.178.2
+0 2 2 109885 1 1604391134
+/
+54.36.148.28
+0 1 0 241 1 1604394549
+/
+107.191.108.176
+0 56 42 1509640 1 1604398449
+/
+178.62.1.145
+0 3 3 16075 1 1604577313
+/xmlrpc.php
+23.228.109.146
+0 14 0 340000 7 1604844698
+-
+107.77.253.12
+0 33 32 3407139 1 1604329662
+/join-our-team/
+35.239.150.144
+0 3 3 16075 1 1604517391
+/xmlrpc.php
+184.174.57.85
+0 1 1 109678 1 1604628510
+/
+47.99.196.234
+0 10 0 0 2 1604253372
+-
+66.246.224.12
+0 2 0 482 2 1604638649
+/
+167.160.66.70
+0 1 1 36380 0 0
+-
+142.4.213.140
+0 81 78 148634 1 1604826488
+/xmlrpc.php
+34.106.93.46
+0 3 3 16071 1 1604321901
+/xmlrpc.php
+35.196.54.126
+0 29 24 1320041 1 1604737469
+/home-health/
+38.128.66.10
+0 1 1 76436 1 1604379420
+/faq/
+123.201.90.133
+0 3 3 16081 1 1604218845
+/xmlrpc.php
+191.96.83.188
+0 1 1 109663 1 1604490162
+/
+47.240.33.132
+0 3 3 328814 1 1604534379
+/
+185.229.144.22
+0 2 2 219388 2 1604646189
+/
+66.249.88.88
+0 1 1 109697 1 1604512940
+/
+173.252.87.117
+0 1 0 48133 1 1604278918
+-
+103.49.86.102
+0 43 41 4065777 1 1604417006
+-
+12.21.208.234
+0 4 4 250345 1 1604659803
+/contact-us/
+54.172.228.88
+0 2 2 109672 1 1604340587
+/
+17.58.96.164
+0 1 1 66706 1 1604443344
+/home-health/
+199.16.243.118
+0 2 2 66324 1 1604258847
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+207.46.13.195
+0 20 15 1084885 0 0
+-
+162.158.69.159
+0 1 0 48230 0 0
+-
+77.88.5.50
+0 3 3 91788 2 1604736415
+/join-our-team/
+173.252.95.15
+0 1 1 0 0 0
+-
+151.106.35.50
+0 3 3 16075 1 1604497527
+/xmlrpc.php
+74.125.210.56
+0 21 21 1480260 0 0
+-
+185.135.214.126
+0 36 34 3553397 1 1604416665
+-
+172.69.29.156
+0 1 0 48229 0 0
+-
+66.249.79.91
+0 5 1 1098 3 1604736248
+/
+72.14.199.4
+0 2 0 96459 2 1604390486
+-
+109.195.179.88
+0 16 16 877845 8 1604876026
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+206.41.174.145
+0 2 1 109809 1 1604854515
+/
+194.5.3.120
+0 1 1 15010 0 0
+-
+209.17.97.2
+0 1 1 109696 1 1604364517
+/
+114.119.153.137
+0 1 1 0 0 0
+-
+208.66.188.100
+0 1 1 109359 1 1604450961
+/
+54.166.216.70
+0 2 2 109664 1 1604767676
+/
+54.36.148.114
+0 1 1 109568 1 1604361585
+/
+95.163.255.4
+0 2 2 58835 1 1604365480
+/team/
+157.55.39.25
+0 4 4 0 0 0
+-
+68.183.57.161
+0 1 1 7624 1 1604250194
+/wp-login.php
+54.36.149.96
+0 1 0 48130 1 1604593988
+-
+174.255.134.57
+0 2 2 219349 1 1604549887
+/
+136.243.123.217
+0 26 26 1137860 0 0
+-
+157.245.45.1
+0 30 13 1828118 1 1604274448
+/
+104.196.176.192
+0 4 3 109816 1 1604397534
+/
+72.191.194.242
+0 7 4 656675 1 1604329933
+/
+142.190.16.164
+0 29 26 1570664 1 1604426142
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+66.249.88.78
+0 27 25 1646999 0 0
+-
+52.206.67.126
+0 2 2 109875 1 1604430922
+/
+78.85.251.63
+0 1 0 48131 1 1604739535
+-
+162.158.69.90
+0 1 0 48229 0 0
+-
+5.9.124.188
+0 3 3 388253 0 0
+-
+54.36.148.65
+0 1 1 88567 1 1604487100
+/self-assessment-questionnaire/
+54.166.195.53
+0 2 2 109890 1 1604256846
+/
+13.66.139.27
+0 1 1 70317 1 1604707373
+/cobbles/
+38.18.63.235
+0 2 1 109809 1 1604859714
+/
+45.87.11.1
+0 142 75 1449506 1 1604376106
+/
+188.165.194.99
+0 1 1 403 1 1604533036
+/xmlrpc.php
+203.29.240.233
+0 1 1 109663 1 1604565798
+/
+103.107.198.211
+0 1005 1003 410152 1 1604566571
+/xmlrpc.php
+176.9.9.131
+0 38 38 3569061 0 0
+-
+184.154.139.47
+0 88 61 4671025 2 1604338555
+/readme.html
+66.249.79.96
+0 31 26 1636849 11 1604868061
+/our-services/
+158.69.83.144
+0 1 0 241 1 1604589415
+-
+216.109.161.103
+0 30 27 1717602 1 1604366770
+/
+134.122.37.125
+0 6 0 0 0 0
+-
+128.199.10.16
+0 1 0 380 0 0
+-
+40.77.189.7
+0 1 1 17762 0 0
+-
+202.187.159.109
+0 6 6 32146 2 1604554649
+/xmlrpc.php
+172.69.29.40
+0 1 0 48231 0 0
+-
+13.66.139.38
+0 3 3 210919 3 1604837261
+/grid/
+168.91.13.185
+0 1 1 405 0 0
+-
+47.17.216.148
+0 4 4 427688 1 1604348668
+/
+104.196.191.125
+0 51 44 2379014 2 1604340355
+/home-health/
+199.167.30.184
+0 1 1 109667 1 1604308136
+/
+77.88.5.246
+0 3 3 12300 0 0
+-
+18.209.107.178
+0 2 2 109877 1 1604474645
+/
+3.7.106.168
+0 1 0 0 0 0
+-
+54.87.156.96
+0 2 2 109668 1 1604828795
+/
+116.203.72.161
+0 14 7 10976 7 1604823608
+/feed/
+54.36.148.129
+0 1 1 53118 1 1604409988
+/services/crisis-care-for-distress-management/
+68.183.41.140
+0 3 3 16075 1 1604562842
+/xmlrpc.php
+54.80.51.161
+0 2 2 109671 1 1604565020
+/
+85.10.207.246
+0 2 1 109814 1 1604772183
+/
+131.159.0.2
+0 1 0 242 1 1604715071
+/
+66.96.183.3
+0 236 232 127 188 1604886892
+/wp-cron.php
+207.244.118.111
+0 4 3 132866 1 1604854523
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+77.88.5.106
+0 3 2 2288 1 1604518079
+/
+157.55.39.127
+0 19 19 1497499 1 1604848198
+/testimonials/
+80.82.68.173
+0 1 0 0 1 1604707009
+-
+217.20.113.232
+0 2 1 109945 1 1604479567
+/
+60.48.179.145
+0 1 0 48195 1 1604322198
+-
+209.208.111.62
+0 2 1 109814 1 1604335851
+/
+24.254.68.81
+0 36 36 3179648 1 1604433602
+/
+54.152.112.158
+0 2 2 109663 1 1604309139
+/
+207.46.13.32
+0 2 2 213664 1 1604201259
+/our-team/
+34.80.125.230
+0 3 3 16071 1 1604376248
+/xmlrpc.php
+35.225.94.95
+0 3 3 16075 1 1604448374
+/xmlrpc.php
+154.30.137.45
+0 1 1 109671 1 1604292044
+/
+40.77.189.42
+0 1 1 37820 0 0
+-
+139.59.25.238
+0 3 3 16075 1 1604514964
+/xmlrpc.php
+71.223.228.158
+0 3 0 0 0 0
+-
+107.77.196.153
+0 9 4 482135 0 0
+-
+34.75.144.50
+0 3 2 109806 1 1604694589
+/
+108.174.50.7
+0 1 1 6838 0 0
+-
+148.251.121.91
+0 5 3 109818 1 1604311259
+/
+66.249.79.98
+0 23 22 1362994 11 1604616817
+/our-services/
+76.85.40.87
+0 16 13 1431588 1 1604355450
+/
+4.15.238.162
+0 64 64 4431698 1 1604221249
+/
+51.15.119.74
+0 2 1 109813 1 1604789379
+/
+77.88.5.22
+0 1 1 80231 1 1604517977
+/care-satisfaction-survey/
+67.174.178.88
+0 1 1 109675 1 1604376605
+/
+27.186.124.43
+0 1 1 49396 1 1604594684
+/
+47.91.107.57
+0 1 0 48133 1 1604840267
+-
+34.207.135.53
+0 2 2 109671 1 1604302031
+/
+173.47.70.90
+0 54 54 3293836 1 1604194309
+/
+173.252.127.3
+0 1 1 109566 1 1604410873
+/
+77.88.5.39
+0 2 1 255 1 1604518130
+/
+172.245.38.148
+0 79 53 190405 1 1604589859
+/
+74.197.248.73
+0 25 25 1713674 1 1604291100
+/
+72.14.199.3
+0 94 94 9228723 52 1604882109
+/
+40.77.189.113
+0 1 1 15010 0 0
+-
+104.131.212.234
+0 2 0 96265 1 1604243281
+-
+66.249.88.67
+0 1 1 109572 1 1604748323
+/
+38.127.124.131
+0 1 1 109672 1 1604232946
+/
+38.133.120.202
+0 83 51 156542 1 1604232944
+/
+23.160.208.250
+0 4 0 97044 1 1604343103
+-
+52.191.164.137
+0 14 8 237929 2 1604793710
+/wp-json/wp/v2/users/
+8.38.210.25
+0 3 0 0 0 0
+-
+77.88.5.209
+0 7 5 208539 3 1604518070
+/wp-json/wp/v2/pages/1385
+114.119.149.118
+0 1 1 0 0 0
+-
+5.62.61.107
+0 3 1 48510 1 1604828162
+/
+188.227.227.197
+0 1 1 109654 1 1604291897
+/
+109.248.147.173
+0 1 1 109564 1 1604754856
+/
+34.201.171.255
+0 2 2 109664 1 1604476059
+/
+68.3.196.254
+0 8 8 620869 1 1604571241
+/contact-us/
+158.51.124.184
+0 120 80 1446446 1 1604761814
+/
+172.69.29.37
+0 1 0 48229 0 0
+-
+152.67.52.194
+0 3 3 16075 1 1604519843
+/xmlrpc.php
+138.229.98.160
+0 1 1 20601 0 0
+-
+194.36.150.126
+0 34 34 1826047 2 1604628501
+/
+202.142.153.181
+0 1 0 48131 1 1604694042
+-
+3.91.251.61
+0 2 2 109669 1 1604317536
+/
+66.249.79.93
+0 2 1 241 1 1604804747
+/
+173.252.87.8
+0 1 0 310 1 1604295523
+/
+43.225.188.147
+0 1 1 109577 1 1604411597
+/
+51.68.5.179
+0 3 3 16071 1 1604353131
+/xmlrpc.php
+34.68.108.19
+0 18 18 2653762 2 1604267778
+/
+39.101.65.235
+0 1 0 48133 0 0
+-
+70.120.150.86
+0 2 2 219338 1 1604359618
+/
+209.17.97.50
+0 1 1 109580 1 1604379778
+/
+13.68.244.143
+0 2 1 157791 1 1604436113
+/
+3.21.127.52
+0 63 41 4408572 1 1604694419
+/privacy-policy/
+199.192.16.113
+0 2 2 8335 1 1604491663
+/xmlrpc.php
+72.14.199.120
+0 99 99 8744216 24 1604831780
+/
+168.151.103.6
+0 1 1 109676 1 1604628499
+/
+39.101.1.61
+0 3 1 96263 1 1604427800
+-
+36.92.22.70
+0 1 0 48131 1 1604812481
+-
+40.77.188.146
+0 2 2 16661 0 0
+-
+54.237.219.107
+0 2 2 109663 1 1604218859
+/
+36.92.35.73
+0 1 1 0 1 1604477524
+/
+135.181.19.217
+0 1 1 5156 0 0
+-
+17.58.99.6
+0 1 1 711652 0 0
+-
+154.51.131.142
+0 2 1 109815 1 1604561989
+/
+66.249.79.126
+0 1 1 81834 1 1604329555
+/volunteer/
+107.152.47.237
+0 28 28 1312563 2 1604565796
+/
+178.215.175.34
+0 1 0 48132 1 1604795438
+-
+192.187.106.82
+0 9 9 48225 3 1604513327
+/xmlrpc.php
+45.79.52.87
+0 2 1 157695 1 1604350881
+/
+3.82.14.73
+0 2 2 109658 1 1604209199
+/
+113.116.145.118
+0 34 26 622840 1 1604295402
+/xmlrpc.php
+46.101.209.166
+0 4 0 97018 1 1604385347
+-
+13.67.67.231
+0 3 3 16071 1 1604302880
+/xmlrpc.php
+103.247.9.55
+0 3 3 16081 1 1604210117
+/xmlrpc.php
+47.188.187.162
+0 69 26 1440793 1 1604469637
+/
+18.234.49.12
+0 2 2 109674 1 1604325511
+/
+216.213.29.143
+0 1 1 160453 0 0
+-
+167.71.46.185
+0 3 3 16075 1 1604478031
+/xmlrpc.php
+74.125.210.58
+0 31 31 1901153 1 1604839062
+/
+34.218.249.174
+0 2 2 219276 1 1604370956
+/
+77.88.5.214
+0 4 3 253618 2 1604736404
+/care-satisfaction-survey/
+54.36.148.1
+0 1 1 0 0 0
+-
+185.220.101.132
+0 1 0 307 1 1604231917
+-
+44.234.254.45
+0 2 1 157920 1 1604826900
+/
+167.160.36.44
+0 1 1 109872 1 1604232955
+/
+189.203.8.179
+0 1 1 403 1 1604497006
+/xmlrpc.php
+4.15.235.2
+0 29 29 2805366 1 1604479912
+/
+207.46.13.202
+0 8 8 475249 3 1604683466
+/
+103.17.50.61
+0 81 69 5037581 1 1604538099
+/
+34.75.252.243
+0 28 23 1320029 1 1604597961
+/home-health/
+35.161.252.234
+0 4 3 328971 1 1604303655
+/
+74.125.210.54
+0 19 17 1238373 0 0
+-
+162.214.113.163
+0 3 3 16075 1 1604532432
+/xmlrpc.php
+157.55.39.37
+0 10 10 0 0 0
+-
+207.66.94.62
+0 28 26 2933752 1 1604416399
+-
+82.196.0.108
+0 3 3 16075 1 1604547072
+/xmlrpc.php
+51.210.243.173
+0 3 0 48890 1 1604362793
+-
+209.17.96.58
+0 1 1 109705 1 1604640867
+/
+116.202.113.215
+0 13 9 754894 1 1604547608
+/faq/
+66.249.79.11
+0 3 3 201384 2 1604802614
+/
+162.142.125.51
+0 1 1 109576 1 1604602308
+/
+163.172.110.238
+0 2 1 109824 1 1604698557
+/
+23.129.64.215
+0 1 0 48130 1 1604328029
+-
+107.6.183.226
+0 1 1 109576 1 1604783823
+/
+114.119.167.129
+0 1 1 0 0 0
+-
+107.178.206.147
+0 2 2 109575 1 1604475323
+/
+3.92.169.132
+0 2 2 109881 1 1604327608
+/
+113.52.144.127
+0 1 1 109671 1 1604565803
+/
+155.186.65.77
+0 22 22 1328897 1 1604528921
+/care-satisfaction-survey/
+66.249.79.97
+0 30 13 742946 5 1604539117
+/our-services/
+71.211.155.240
+0 36 21 1449138 1 1604494417
+/
+192.3.28.229
+0 1 1 12663 0 0
+-
+54.36.110.237
+0 3 2 115680 1 1604861356
+/
+192.171.81.234
+0 1 1 327601 0 0
+-
+93.114.234.244
+0 3 3 16071 1 1604326989
+/xmlrpc.php
+77.88.5.91
+0 3 2 109954 2 1604430745
+-
+172.69.27.156
+0 2 0 96457 0 0
+-
+66.249.65.172
+0 2 2 0 0 0
+-
+54.198.131.130
+0 2 2 109865 1 1604492594
+/
+104.36.115.22
+0 70 69 5428507 1 1604470849
+/
+34.238.158.157
+0 2 2 109657 1 1604427231
+/
+195.154.123.21
+0 48 1 109693 1 1604859090
+/
+94.130.16.23
+0 18 18 1583641 0 0
+-
+67.55.66.180
+0 2 1 109780 1 1604712819
+/
+34.74.157.10
+0 4 3 109813 1 1604286987
+/
+52.214.110.3
+0 6 6 32142 2 1604308385
+/xmlrpc.php
+24.136.72.169
+0 58 11 472201 1 1604755625
+/our-team/
+192.171.83.73
+0 1 0 378 1 1604256743
+-
+184.154.139.46
+0 44 29 2292376 1 1604770589
+/readme.html
+95.165.7.81
+0 3 2 109962 1 1604593152
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+115.202.199.31
+0 1 1 403 1 1604417168
+/xmlrpc.php
+66.249.65.174
+0 1 0 241 1 1604831802
+/
+162.252.172.119
+0 74 51 156331 1 1604456029
+/
+45.61.183.9
+0 47 45 4102969 1 1604416201
+-
+34.66.195.157
+0 36 36 3762667 2 1604715329
+/
+60.52.86.253
+0 1 0 48195 1 1604322183
+-
+138.197.4.141
+0 3 3 16075 1 1604492573
+/xmlrpc.php
+204.8.45.66
+0 22 22 1161780 1 1604366678
+/
+174.215.144.127
+0 30 23 1950506 1 1604328408
+/
+173.252.95.25
+0 2 1 109809 1 1604505721
+/
+185.89.105.196
+0 1 1 109666 1 1604301965
+/
+185.76.243.85
+0 1 1 109669 1 1604292029
+/
+94.130.200.133
+0 4 2 3136 2 1604872148
+/feed/
+115.209.118.131
+0 1 1 403 1 1604877570
+/xmlrpc.php
+77.88.5.157
+0 4 4 119489 1 1604518127
+/wp-json/wp/v2/pages/2049
+138.201.220.92
+0 1 0 241 1 1604676184
+/
+4.15.235.3
+0 5 5 444451 2 1604478125
+/
+17.58.96.240
+0 2 2 0 0 0
+-
+168.151.229.66
+0 2 1 109821 1 1604197697
+/
+72.14.199.31
+0 682 682 53213444 63 1604868526
+/
+163.237.216.93
+0 1 0 48131 1 1604820088
+-
+217.24.160.92
+0 14 9 330437 1 1604236868
+/
+206.126.35.226
+0 30 28 1609105 1 1604753620
+/our-team/
+107.175.229.202
+0 1 1 289812 0 0
+-
+157.245.184.205
+0 3 3 16075 1 1604461590
+/xmlrpc.php
+212.168.31.17
+0 2 0 0 1 1604276135
+-
+40.77.188.163
+0 1 1 289812 0 0
+-
+195.98.78.43
+0 1 0 48133 1 1604727402
+-
+77.88.5.234
+0 3 2 147528 1 1604518083
+/
+104.232.211.134
+0 20 20 821405 1 1604553753
+/
+88.99.137.13
+0 4 2 111355 1 1604736467
+/feed/
+54.172.27.128
+0 2 2 109889 1 1604530160
+/
+149.168.240.7
+0 75 75 5442210 1 1604724432
+/self-assessment-questionnaire/
+107.214.21.103
+0 43 22 1915749 2 1604341129
+/wp-json/contact-form-7/v1/contact-forms/2052/feedback
+3.85.87.158
+0 9 8 220804 1 1604418112
+/our-team/
+208.51.63.233
+0 79 52 157399 1 1604247403
+/
+198.12.127.139
+0 3 3 188438 1 1604403239
+/
+172.69.24.208
+0 1 0 48228 0 0
+-
+148.72.210.224
+0 3 3 16075 1 1604561968
+/xmlrpc.php
+136.243.222.140
+0 6 4 310140 3 1604328529
+-
+186.216.194.107
+0 1 1 403 1 1604610780
+/xmlrpc.php
+172.69.29.159
+0 1 0 48229 0 0
+-
+136.49.47.13
+0 53 53 5006991 6 1604859294
+/
+95.163.255.9
+0 2 2 78900 1 1604388681
+/faq/
+168.91.37.110
+0 1 1 24404 0 0
+-
+173.252.127.18
+0 1 0 310 1 1604542203
+/
+40.77.189.43
+0 1 1 1193 0 0
+-
+35.176.250.216
+0 6 6 32150 2 1604553765
+/xmlrpc.php
+70.162.248.250
+0 3 3 388253 0 0
+-
+37.187.91.7
+0 6 6 32150 2 1604566695
+/xmlrpc.php
+47.42.79.0
+0 1 1 109581 1 1604757926
+/
+162.158.69.95
+0 1 0 48230 0 0
+-
+46.4.123.37
+0 2 0 48512 1 1604628102
+-
+168.119.115.253
+0 10 0 242738 2 1604662659
+-
+54.162.155.109
+0 32 20 631755 9 1604785800
+-
+54.89.237.8
+0 2 2 109894 1 1604342724
+/
+172.69.28.232
+0 1 0 48227 0 0
+-
+93.158.161.52
+0 7 5 182483 2 1604518129
+/services/crisis-care-for-distress-management/
+66.249.65.202
+0 1 0 241 1 1604784913
+/
+46.248.190.201
+0 2 1 1568 1 1604220351
+/feed/
+77.88.5.76
+0 2 2 57874 1 1604517969
+/services/24-hour-on-call-nursing-support/
+172.58.110.254
+0 1 1 109654 1 1604695275
+/
+87.116.163.0
+0 1 1 109577 1 1604491077
+/
+216.12.174.123
+0 2 2 66321 1 1604431936
+/wp-json/contact-form-7/v1/contact-forms/803/feedback
+66.249.79.103
+0 2 0 0 0 0
+-
+167.248.133.33
+0 4 2 219749 1 1604689371
+/
+109.162.246.170
+0 1 1 403 1 1604321828
+/xmlrpc.php
+88.99.28.94
+0 1 1 109568 1 1604301966
+/
+35.193.14.110
+0 55 55 4304985 1 1604649152
+/
+172.69.26.213
+0 1 0 48228 0 0
+-
+95.163.255.5
+0 2 2 0 0 0
+-
+188.68.35.198
+0 6 6 32150 2 1604580271
+/xmlrpc.php
+173.252.87.15
+0 1 1 109573 1 1604278918
+/
+173.252.87.111
+0 2 2 219196 2 1604378577
+/
+107.152.254.218
+0 1 1 148956 0 0
+-
+95.217.229.86
+0 1 1 109572 1 1604482132
+/
+52.203.74.175
+0 2 2 109676 1 1604261531
+/
+72.14.199.25
+0 9 9 1065634 2 1604642400
+/
+174.140.109.5
+0 1 1 287775 0 0
+-
+92.222.76.0
+0 3 3 16075 1 1604456375
+/xmlrpc.php
+17.58.99.5
+0 1 1 207790 0 0
+-
+54.36.148.38
+0 1 0 241 1 1604779036
+/
+174.255.137.79
+0 1 1 109672 1 1604390579
+/
+103.49.86.10
+0 47 45 4102961 1 1604417152
+-
+113.167.132.197
+0 1 0 48193 1 1604322187
+-
+77.88.5.104
+0 2 2 0 0 0
+-
+43.225.70.142
+0 11 1 68729 0 0
+-
+172.69.25.22
+0 2 0 96456 0 0
+-
+51.77.142.166
+0 7 6 510230 1 1604555843
+/faq/
+54.164.85.69
+0 2 2 109661 1 1604381204
+/
+157.55.39.68
+0 2 1 109956 2 1604424284
+/
+18.207.229.129
+0 2 2 109664 1 1604442841
+/
+173.172.42.153
+0 17 6 776506 0 0
+-
+97.99.136.203
+0 2 2 115445 1 1604856715
+/
+93.158.161.76
+0 2 2 219249 2 1604884561
+/
+13.66.139.79
+0 1 1 70318 1 1604710943
+/cobbles/
+68.142.229.248
+0 25 24 2388900 1 1604805491
+/
+209.196.97.78
+0 1 1 109656 1 1604368066
+/
+35.153.127.49
+0 2 2 109883 1 1604514436
+/
+66.249.79.101
+0 2 0 0 0 0
+-
+136.243.17.142
+0 9 8 586474 2 1604317088
+/our-services/
+66.102.6.146
+0 2 2 186405 2 1604839074
+/
+54.172.93.253
+0 2 2 109665 1 1604431117
+/
+138.128.5.47
+0 2 2 18177 0 0
+-
+13.59.173.74
+0 6 3 110483 1 1604420949
+/
+76.187.19.202
+0 1 1 109571 1 1604677668
+/
+99.164.32.161
+0 2 2 201162 1 1604331787
+/our-team/
+115.89.74.126
+0 1 1 109567 1 1604287367
+/
+157.55.39.13
+0 1 1 109571 1 1604338419
+/
+52.204.132.155
+0 3 3 16071 1 1604358477
+/xmlrpc.php
+135.181.19.218
+0 24 24 1295570 0 0
+-
+68.93.134.89
+0 54 20 1149641 1 1604396592
+/contact-us/
+104.248.172.238
+0 3 3 16075 1 1604475010
+/xmlrpc.php
+40.77.191.20
+0 1 1 14246 0 0
+-
+80.211.139.155
+0 6 6 32146 2 1604466937
+/xmlrpc.php
+162.142.125.34
+0 3 2 219629 1 1604682423
+/
+24.46.193.248
+0 1 1 109667 1 1604304524
+/
+107.175.89.136
+0 1 1 33230 0 0
+-
+66.249.79.95
+0 1 1 0 0 0
+-
+61.129.72.16
+0 1 0 241 1 1604594177
+-
+40.74.138.140
+0 9 9 48217 3 1604535889
+/xmlrpc.php
+64.227.26.107
+0 3 3 16071 1 1604280022
+/xmlrpc.php
+93.158.161.28
+0 5 4 175064 3 1604884550
+/
+40.77.188.53
+0 1 1 20216 0 0
+-
+13.126.153.206
+0 3 3 16075 1 1604496156
+/xmlrpc.php
+34.227.68.182
+0 2 2 109892 1 1604346295
+/
+93.158.161.55
+0 3 3 184445 2 1604518132
+/join-our-team/
+159.69.121.51
+0 12 6 9408 6 1604852732
+/feed/
+74.6.40.107
+0 6 5 336392 1 1604303137
+/
+54.36.148.187
+0 1 1 0 0 0
+-
+107.219.252.135
+0 24 24 1100409 1 1604433026
+/
+3.81.99.33
+0 2 2 109873 1 1604564730
+/
+66.249.79.183
+0 1 0 375 0 0
+-
+125.27.99.198
+0 1 1 403 1 1604839507
+/xmlrpc.php
+203.150.107.77
+0 6 6 32146 2 1604546213
+/xmlrpc.php
+47.115.54.160
+0 2 1 50536 1 1604569678
+/
+99.38.0.230
+0 27 12 1300291 1 1604274951
+/
+66.249.79.99
+0 18 9 1278135 9 1604651559
+/our-team/
+104.227.91.196
+0 1 1 12663 0 0
+-
+34.67.134.240
+0 21 21 1925751 2 1604374543
+/
+38.94.198.206
+0 82 53 342307 1 1604398451
+/
+66.249.79.22
+0 24 24 2062104 10 1604840531
+/
+148.216.1.174
+0 3 3 16071 1 1604246033
+/xmlrpc.php
+34.207.195.70
+0 2 2 109886 1 1604843264
+/
+119.8.43.17
+0 2 1 109939 1 1604704830
+/
+195.154.122.188
+0 20 20 852041 1 1604361589
+/
+31.13.103.118
+0 1 1 0 0 0
+-
+40.77.191.25
+0 1 1 3142 0 0
+-
+107.214.22.46
+0 1 1 109351 1 1604424239
+/
+93.158.161.59
+0 5 4 211816 1 1604359803
+/
+172.69.24.205
+0 2 0 96455 0 0
+-
+166.137.136.132
+0 41 41 2103171 1 1604270044
+/
+35.168.21.43
+0 2 2 109872 1 1604758718
+/
+172.69.25.16
+0 2 0 96457 0 0
+-
+54.89.121.164
+0 2 2 109662 1 1604521881
+/
+168.91.9.69
+0 1 1 3142 0 0
+-
+34.219.41.34
+0 67 64 5179185 1 1604571948
+/
+3.81.49.102
+0 2 2 109670 1 1604232243
+/
+51.83.41.131
+0 3 3 16071 1 1604244712
+/xmlrpc.php
+167.172.127.130
+0 202 147 10684746 5 1604834953
+/services/routine-home-care/
+69.171.251.3
+0 1 1 109567 1 1604505721
+/
+116.203.105.92
+0 10 5 7840 5 1604630600
+/feed/
+17.58.99.65
+0 1 1 81317 0 0
+-
+24.88.53.24
+0 24 24 1405232 1 1604646322
+/
+40.88.21.235
+0 2 2 115443 1 1604780041
+/
+173.252.87.22
+0 1 1 109634 1 1604295524
+/
+95.163.255.2
+0 2 2 50099 1 1604400073
+/cart/
+188.166.37.137
+0 2 1 109927 1 1604291926
+/
+40.77.188.168
+0 1 1 81327 1 1604779526
+/our-services/
+51.83.129.84
+0 4 0 97016 1 1604362779
+-
+17.58.99.7
+0 1 1 15010 0 0
+-
+74.125.210.60
+0 1 0 48131 0 0
+-
+34.229.226.28
+0 2 2 109673 1 1604755001
+/
+193.169.254.26
+0 14 0 339614 0 0
+-
+173.252.87.21
+0 1 0 48132 1 1604278918
+-
+166.137.126.78
+0 4 4 221756 1 1604427508
+/
+172.69.27.10
+0 1 0 48227 0 0
+-
+46.248.166.75
+0 1 1 1195 1 1604220350
+/feed/
+23.95.232.212
+0 1 1 11425 0 0
+-
+51.89.21.1
+0 3 3 16075 1 1604490808
+/xmlrpc.php
+35.235.115.241
+0 2 0 96264 2 1604418020
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+207.46.13.115
+0 1 0 48227 1 1604880149
+-
+209.97.61.11
+0 1 1 109567 1 1604880555
+/
+52.90.16.195
+0 2 2 109667 1 1604886894
+/
+77.88.5.62
+0 1 1 0 0 0
+-
+93.158.161.37
+0 1 1 0 0 0
+-
+8.28.7.20
+0 31 30 1652214 1 1604886926
+/
+93.158.161.20
+0 1 1 109698 1 1604887088
+/
+207.46.13.137
+0 1 0 48133 1 1604884590
+-
+66.96.183.3
+0 2 2 0 2 1604886892
+/wp-cron.php
+72.14.199.3
+0 2 2 219762 1 1604882109
+/
+72.14.199.31
+0 4 4 28016 0 0
+-
+93.158.161.76
+0 1 1 109565 1 1604884561
+/
+93.158.161.28
+0 2 1 241 1 1604884550
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://silverstonehospice.com/contact-us/
+0 1
+https://78n.4ee.myftpupload.com/
+0 1
+http://www.comfortcarehospice.us/contact-us/
+1 78
+http://www.abilogic.com/
+0 1
+http://about.reotulanlandgingclip.tk/
+0 1
+http://service.beylermetithe.cf/
+0 1
+https://www.comfortcarehospice.us/
+1 77
+http://www.comfortcarehospice.us/wp-json/wp/v2/types/post
+1 1
+http://www.firstcry.com/
+0 1
+http://www.comfortcarehospice.us/wp-cron.php
+1 213
+http://tr.diweakmugglessbeni.tk/
+0 1
+http://www.hindawi.com/
+0 1
+http://www.comfortcarehospice.us/faq/
+1 89
+http://pt.outmicamseiphede.tk/
+0 1
+https://mojagear.com/best-rock-climbing-gear-guides/climbing-shoes/
+0 2
+http://single.reneslasaro.tk/
+0 1
+http://www.gofundme.com/
+0 1
+http://www.gamesgames.com/
+0 1
+http://pt.efthrifsubviher.tk/
+0 1
+http://www.comfortcarehospice.us/care-satisfaction-survey/
+1 43
+http://www.invaluable.com/
+0 1
+http://www.comfortcarehospice.us/index.php
+1 2
+http://naxun.fxrst.com/blog/7796149/view/
+0 1
+http://www.google.com/url
+1 210
+http://like.diamoesoftlama.cf/
+0 1
+https://kiddingall.com/privacy-policy/
+0 1
+http://try.lirocquirinrabows.tk/
+0 1
+http://usa.tiocycsustpicharsi.tk/
+0 1
+http://uproxx.com/
+0 1
+https://www.comfortcarehospice.us/wp-content/plugins/revslider/public/assets/css/rs6.css
+1 3
+https://www.google.com/search
+1 14
+http://www.definicionabc.com/
+0 1
+http://www.comfortcarehospice.us/wp-admin/admin-ajax.php
+1 3
+http://www.comfortcarehospice.us/join-our-team/
+1 3
+https://66.96.147.120/autodiscover/autodiscover.xml
+0 1
+http://www.oola.com/
+0 1
+https://www.amazon.com/dp/B0771BQBKY/ref
+0 1
+http://www.openurls.com.cn/
+0 1
+http://www.dermstore.com/
+0 1
+https://www.thetrendspotter.net/best-pilot-aviation-watches-to-buy/
+0 1
+http://davidbaldaccibooklist.com/john-puller-series/
+0 1
+http://www.comfortcarehospice.us/self-assessment-questionnaire/
+1 73
+https://www.comfortcarehospice.us/our-services/
+1 63
+http://footballguys.com/
+0 1
+https://silverstonehospice.com/
+0 232
+http://palmettostatearmory.com/
+0 1
+http://thirtydaychange.com/
+0 1
+http://major.adculywoorvie.tk/
+0 1
+http://arm.damforadbestcapga.ga/
+0 1
+http://www.comfortcarehospice.us/about-us/
+1 30
+https://r.search.yahoo.com/_ylt
+1 2
+http://www.algebra.com/
+0 1
+https://comfortcarehospice.us
+1 1
+http://www.comfortcarehospice.us/1.zip
+1 1
+https://www.comfortcarehospice.us/volunteer/
+1 7
+http://hook.fronagtiluna.tk/
+0 1
+http://66.96.149.27/autodiscover/autodiscover.xml
+0 1
+http://wordpress.comfortcarehospice.us///
+1 2
+http://www.comfortcarehospice.us/filemanager.php
+1 141
+https://www.google.com/
+1 41
+http://africa.raisosubsoci.cf/
+0 1
+- (Direct Request)
+0 4256
+https://eastads.simpli.fi/ads/1909898/16502940/ad.html
+0 1
+http://start.fiotholytadelmi.ga/
+0 1
+http://hollywoodlife.com/
+0 1
+http://app.diotwizbopokoram.gq/
+0 1
+http://downdetector.com/
+0 1
+https://silverstonehospice.com/volunteer/
+0 3
+https://www.yelp.com/
+0 1
+http://www.flipbus.com/
+0 1
+http://www.comfortcarehospice.us/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+1 693
+http://www.comfortcarehospice.us/wp-includes/lfx.php
+1 1
+http://www.amamascorneroftheworld.com/
+0 1
+http://able.eftisolcowadis.tk/
+0 1
+http://www.comfortcarehospice.us/shell.php
+1 1
+http://you.parestbagmispconbio.cf/
+0 1
+http://serato.com/
+0 1
+https://www.comfortcarehospice.us/wp-cron.php
+1 19
+http://www.werunforfun.com/category/disney-race-reports/
+0 1
+http://www.zumiez.com/
+0 2
+http://www.comfortcarehospice.us
+1 31
+http://www.comfortcarehospice.us/wp-content/plugins/contact-form-7/includes/css/styles.css
+1 24
+comfortcarehospice.us
+1 14
+http://www.comfortcarehospice.us/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css
+1 72
+http://www.comfortcarehospice.us/our-services/
+1 63
+http://girl.renlosanmali.cf/
+0 1
+http://delong.typepad.com/sdj/2010/12/if-you-have-never-read-this-you-should.html
+0 2
+http://www.driverscape.com/
+0 1
+http://aglasem.com/
+0 1
+http://not.izaminlurereld.tk/
+0 1
+https://silverstonehospice.com/careers/
+0 2
+https://silverstonehospice.com/faq/
+0 2
+Google
+2 316
+http://66.96.147.120/autodiscover/autodiscover.xml
+0 1
+http://www.comfortcarehospice.us/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+1 16
+http://caught.itsurhershandtenri.tk/
+0 1
+https://www.medicalnewstoday.com/articles/158647.php
+0 1
+https://silverstonehospice.com/self-assessment-questionnaire/
+0 2
+http://www.teamviewer.com/en/
+0 1
+http://www.comfortcarehospice.us/wp-content/uploads/2020/03/comfortcarehospice-favicon.png
+1 1
+http://free3d.com/
+0 1
+https://silverstonehospice.com/testimonials/
+0 1
+http://www.famousfix.com/
+0 1
+https://www.comfortcarehospice.us/contact-us/
+1 3
+http://if.slucnoduppgitis.tk/
+0 1
+http://thesweethome.com/
+0 1
+http://www.comfortcarehospice.us/wp-content/plugins/trx_addons/css/font-icons/css/trx_addons_icons-embedded.css
+1 34
+http://www.comfortcarehospice.us/wp-content/themes/prodent/css/font-icons/css/fontello-embedded.css
+1 30
+http://friend.idgrowherpusramog.ml/
+0 1
+http://comfortcarehospice.us/
+1 9
+http://gay.netanthousreli.tk/
+0 1
+http://www.comfortcarehospice.us/care-satisfaction-survey
+1 1
+www.google.com
+1 22
+http://chat.chopsrafopsobota.cf/
+0 1
+https://www.bing.com/
+0 2
+http://www.comfortcarehospice.us/js/common.js
+1 1
+http://entireweb.com/
+0 1
+http://www.comfortcarehospice.us/wp-content/plugins/revslider/public/assets/css/rs6.css
+1 217
+http://games.venawhimrialos.cf/
+0 1
+https://comfortcarehospice.us/
+1 5
+http://comfortcarehospice.us
+1 10
+http://www.comfortcarehospice.us/services/supportive-medical-equipment/
+1 6
+http://woman.piedridsigpamuca.ml/
+0 1
+http://marriage.orramamamita.cf/
+0 1
+http://www.comfortcarehospice.us/testimonials/
+1 5
+http://www.werunforfun.com/
+0 1
+http://www.comfortcarehospice.us/wp-content/themes/prodent/style.css
+1 13
+http://integrityorthopedics.com/
+0 1
+http://www.comfortcarehospice.us/demo/contact-us/
+1 6
+https://www.google.com
+1 6
+comfortcarehospice.biz
+0 11
+https://66.96.149.27/autodiscover/autodiscover.xml
+0 1
+http://www.americastestkitchen.com/
+0 1
+http://www.comfortcarehospice.us/services/respite-for-caregiver-relief/
+1 50
+http://www.alwatanvoice.com/arabic/index.html
+0 1
+http://example.highnaracomfourp.tk/
+0 1
+http://www.comfortcarehospice.us/volunteer/
+1 54
+https://www.comfortcarehospice.us/testimonials/
+1 25
+http://www.comfortcarehospice.us/wp_manager.php
+1 181
+http://www.comfortcarehospice.us/services/routine-home-care/
+1 57
+http://www.therichest.com/
+0 1
+http://www.comfortcarehospice.us/inpatient-care/
+1 3
+https://silverstonehospice.com/hospice-care/
+0 4
+http://www.saudia.com/
+0 1
+http://www.comfortcarehospice.us/manager.php
+1 105
+http://tvline.com/
+0 1
+http://66.96.149.27:80/
+0 2
+https://www.comfortcarehospice.us/our-team/
+1 176
+http://www.google.com/
+1 22
+http://www.comfortcarehospice.us/wp-content/plugins/essential-grid/public/assets/css/settings.css
+1 26
+http://www.comfortcarehospice.us/wp-content/plugins/trx_addons/css/trx_addons.css
+1 13
+http://www.comfortcarehospice.us/1/1.zip
+1 1
+http://www.comfortcarehospice.us/
+1 4676
+http://www.acehardware.com/home/index.jsp
+0 1
+http://www.comfortcarehospice.us///
+1 2
+http://comfortcarehospice.us/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+1 6
+http://www.comfortcarehospice.us/our-team/
+1 43
+www.comfortcarehospice.us
+1 10
+http://www.farfeshplus.com/
+0 1
+http://www.mangapanda.com/
+0 1
+http://include.tolockpfafythcebac.tk/
+0 1
+https://agents.farmers.com/tx/haslet/steve-fusco
+0 1
+http://www.computrabajo.com/
+0 2
+http://first.presartaltipho.cf/
+0 1
+http://www.caclubindia.com/
+0 1
+http://www.google.com.hk
+1 1
+http://new.closemacovatcon.cf/
+0 1
+http://rpm.97b.myftpupload.com/
+0 16
+http://good.placrerawelo.ga/
+0 1
+http://qabd.fxrst.com/blog/94441198/view/
+0 1
+Yahoo!
+2 2
+http://comfortcarehospice.us///
+1 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 8696
+MSIE 7.0
+0 6
+Scrapy/2.3.0 (+https://scrapy.org)
+0 2
+MSIE 10.0
+0 16
+Java/1.8.0_222
+0 1
+DuckDuckGo-Favicons-Bot/1.0
+0 2
+Opera 8.5
+0 1
+Netscape 6 compatible
+2 8801
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 137
+Dataprovider.c
+0 84
+NetcraftSurveyAgent/1.0
+0 1
+TprAdsTxtCrawler/1.0
+0 10
+evc-batch/2.0
+0 6
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; SM-J727T1 Build/M1AJQ)
+0 1
+Mozilla/5.1
+0 10
+YandexImages/3.0
+0 12
+ia_archiver
+0 32
+PetalBot
+0 7
+Seekport Crawler
+0 1
+CensysInspect/1.1
+0 8
+GrapeshotCrawler/2.0
+0 2
+python-requests/2.24.0
+0 8
+Mozilla/5.0 (compatible) SemanticScholarBot (+https://www.semanticscholar.org/crawler)
+0 3
+Dalvik/2.1.0 (Linux; U; Android 8.1.0; LML212VL Build/OPM1.171019.019)
+0 1
+BW/1.1
+0 3
+Go-http-client/1.1
+0 10
+CloudFlare-AlwaysOnline/1.0
+0 32
+Linux x86_64
+0 11
+WordPress/5.5.3; https://www.comfortcarehospice.us
+0 19
+Mozilla/5.2
+0 27
+DomainStatsBot/1.0 (https://domainstats.com/pages/our-bot)
+0 24
+Googlebot-Image/1.0
+0 20
+AhrefsBot/7.0
+0 136
+Mozilla/5\\.0
+0 65
+GoogleDocs
+0 3
+Mozilla
+2 45
+AhrefsBot/6.1
+0 8
+Apache/2.4.34 (Ubuntu) OpenSSL/1.1.1 (internal dummy connection)
+0 3
+MSIE 8.0
+0 221
+Internet Explorer 6
+2 7
+Dalvik/2.1.0 (Linux; U; Android 9; SM-S767VL Build/PPR1.180610.011)
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 19
+AdsBot-Google (+http://www.google.com/adsbot.html)
+0 1485
+Screaming Frog SEO Spider/13.2
+0 10
+Magic Browser
+0 1
+GuzzleHttp/6.5.5 curl/7.29.0 PHP/7.1.12
+0 3
+Nimbostratus-Bot/v1.3
+0 8
+MSIE 9.0
+0 226
+WordPress/5.5.3; http://www.comfortcarehospice.us
+0 217
+Java/1.8.0_171
+0 2
+Opera
+2 1
+Googlebot/2.1
+0 132
+Microsoft Office/16.0 (Windows NT 10.0; MAPICPL 16.0.13328; Pro)
+0 2
+Leap
+0 12
+Wordpress
+0 1
+RyteBot/1.0.0 (+https://bot.ryte.com/)
+0 2
+MSIE 6.0
+0 7
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 308
+YandexBot/3.0
+0 114
+Nuclei - Open-source project (github.com/projectdiscovery/nuclei)
+0 19
+Python-urllib/3.8
+0 2
+axios/0.19.2
+0 2
+Ruby
+0 2
+python-requests/2.18.4
+0 2
+bingbot/2.0
+0 193
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 45
+HubSpot Connect 2.0 (http://dev.hubspot.com/) - BizOpsCompanies-Tq2-BizCoDomainValidationAudit
+0 2
+# End Of Table - agents
+# -search strings- 
+https://adspreview.simpli.fi/ads/live/1909898/16502944/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1908569/16490530/ad.htmlsifitest=true
+2
+https://adspreview.simpli.fi/ads/live/1908569/16490537/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1908569/16490532/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1909898/16502941/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1909898/16502943/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1908569/16490531/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1909898/16502945/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1908569/16490529/ad.htmlsifitest=true
+3
+https://adspreview.simpli.fi/ads/live/1909898/16502939/ad.htmlsifitest=true
+1
+https://adspreview.simpli.fi/ads/live/1908569/16490535/ad.htmlsifitest=true
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

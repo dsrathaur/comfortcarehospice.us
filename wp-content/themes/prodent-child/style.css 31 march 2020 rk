@@ -1,0 +1,141 @@
+@charset 'utf-8';
+/*
+  Theme Name: ProDent Child
+  Theme URI: http://prodent.ancorathemes.com/
+  Description: ProDent - Multipurpose and Multiskin Responsive Wordpress theme
+  Author: AncoraThemes
+  Author URI: http://ancorathemes.com/
+  Template: prodent
+  Version: 1.0
+  Tags: light, responsive-layout, flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+  Text Domain:  prodent
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.self-assessment-sidebar-wrapper .sc_shift_y_large_negative { top: auto !important; padding: 6em 0; }
+.self-assessment-box-wrapper { box-shadow: 0.067em 0.067em 4.133em rgba(12, 71, 84, 0.08); background-color: #087bf0; }
+.self-assessment-box-wrapper .sc_item_title { padding: 25px 30px; color: #FFF; font-size: 2.5em !important; font-weight: 400 !important; text-align: center; }
+.self-assessment-box-wrapper > .sc_item_descr { background: #FFF; width: unset; max-width: 100%; padding: 35px 35px 15px 35px; margin: 0px; color: #555; }
+.self-assessment-box-wrapper > .sc_item_descr h3 { font-size: 1.7em; line-height: 1.3em; font-weight: 500; margin: 15px 0 30px 0;  }
+.self-assessment-box-wrapper > .sc_item_descr h5 { font-size: 1.4em; line-height: 1.4em; font-weight: 500; margin: 15px 0 30px 0;  } 
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list { margin: 15px 0 30px 0; padding: 0px; display: flex; flex-direction: column; list-style-type: none; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item { margin: 15px 0px 0px 0px; padding: 0px 0px 0px 20px; position: relative; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item::before { content: ""; position: absolute; height: 8px; width: 8px; display: inline-flex; background: #087bf0; left: 0; top: 9px; border-radius: 100%; }
+.self-assessment-box-wrapper > .sc_item_descr .self-assessment-box-list .self-assessment-box-item:first-child { margin: 0px; }
+
+
+.self-assessment-box-wrapper > .sc_item_button.sc_button_wrap { background: #FFFF;  margin: 0; padding: 15px 35px 35px 35px; }
+.self-assessment-box-wrapper > .sc_item_button.sc_button_wrap .sc_button { text-align: center; width: 100%; }
+
+
+.sc_services_slider .sc_services_item, 
+.sc_services_columns_wrap .sc_services_item, 
+.services_page_related .related_columns .sc_services_item { display: flex; }
+
+.sc_services_callouts .sc_services_item_marker img { max-width: calc(100% - 20px); max-height: calc(100% - 20px); }
+.scheme_default .sc_services_callouts .sc_services_item_marker { background-color: #087bf0; }
+.sc_services_callouts .sc_services_item_featured_top .sc_services_item_info { display: flex; flex-wrap: wrap; flex-direction: column; justify-content: center; width: 100%; }
+.sc_services_callouts .sc_services_item_button { display: none; }
+
+
+
+.process-alone-points-wrapper > .vc_column-inner::before { content: ""; position: absolute; left: 0; top: 0; height: 100%; width: 100%; background: rgba(0, 70, 140,0.8); display: flex; }
+.process-alone-points-wrapper .trx_addons_list_parameters>li:nth-child(2n+1) { background-color: rgba(8, 123, 240,0.7); }
+
+
+
+.call-to-action-section .sidebar-call-to-action-wrapper .sc_item_descr { width: auto; max-width: 100%; margin: 1.5rem 0 0 0; font-size: 1.2em;  }
+
+
+
+.we-are-help-you-section .we-are-help-you-container { max-width: 1170px; margin: 0 auto; }
+.we-are-help-you-section .sc_icons_icon { background-color: #087bf0 !important; }
+
+
+.footer-about-information-section .footer-about-information-content { font-size: 1.3em; text-align: center; color: #FFF; font-weight: 400; }
+
+
+.scheme_dark .sc_layouts_title_breadcrumbs .current { color: #FFF !important; }
+
+
+.our-team-all-members-section .our-team-member-wrapper .wpb_single_image .vc_single_image-img { border-radius: 10px; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_item_title { font-size: 2.2em; line-height: 1.1em; font-weight: 500;
+    color: #000; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_item_subtitle { margin: 10px 0 0 0; }
+.our-team-all-members-section .our-team-member-wrapper .sc_content_default .sc_content_descr { width: auto; max-width: 100%; margin: 20px 0 0; color: #333; }
+.our-team-all-members-section .vc_separator { margin-top: 50px !important; margin-bottom: 50px !important; }
+
+
+.our-team-all-members-title-section .sc_title_default { max-width: 900px; width: 100%; margin: 0 auto; }
+.our-team-all-members-title-section .sc_title_default .sc_item_title { font-weight: 500 !important; color: #FFF; }
+.our-team-all-members-title-section .sc_title_default .sc_item_subtitle { color: #FFF; opacity: 0.7; font-weight: 400; }
+
+
+
+.full-width-testimonials-section .sc_testimonials .sc_item_title.sc_testimonials_title { color: #FFF; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item { padding-bottom: 30px; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_content { background: transparent !important; color: #FFF; font-weight: 500; padding: 0;  }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_content::before { display: none; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author { color: #FFF; font-weight: 500; padding: 30px 0px 0px; margin: 0px; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author .sc_testimonials_item_author_data .sc_testimonials_item_author_title { width: 100%; color: #FFF; }
+.full-width-testimonials-section .sc_testimonials .sc_testimonials_item .sc_testimonials_item_author .sc_testimonials_item_author_data .sc_testimonials_item_author_subtitle { width: 100%; color: #FFF; }
+
+
+
+.inner-pages-banner-section::before { content: ""; position: absolute; top: 0; height: 100%; width: 100%; left: 0; background: rgba(0,0,0,0.5); }
+
+
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container { padding: 0px !important; margin: 0px !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels { padding: 0px !important; margin: 0px !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel { padding: 0px !important; margin: 0px !important; }
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-title a { padding: 30px 70px 30px 30px !important; } 
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-title a .vc_tta-controls-icon { right: 30px; top: 50% !important; transform: translate(0px, -50%); }
+
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel::after { display: none !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-heading { background: #087bf0 !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel.vc_active .vc_tta-panel-heading { background: #fd38e8 !important; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-body { background: #087bf0 !important; padding: 0; }
+.faq-accordion-content-section .faq-accordion-content-wrapper .vc_tta-panels-container .vc_tta-panels .vc_tta-panel .vc_tta-panel-body .wpb_wrapper { background: #ffe9fd !important; color: #111 !important; }
+
+
+
+.our-team-cta-section .vc_general { background: transparent !important; border: none !important; padding: 0px !important; } 
+.our-team-cta-section .vc_cta3-container { margin-bottom: 0; } 
+.our-team-cta-section .vc_general .vc_cta3-content .vc_cta3-content-header h2 { color: #FFF; font-size: 3em; font-weight: 400; margin: 0 0 20px; padding: 0; }
+.our-team-cta-section .vc_general .vc_cta3-content .vc_cta3-content-header h4 { color: #FFF; font-size: 1.5em; line-height: 1.5em; }
+.our-team-cta-section .vc_general .vc_cta3-actions { text-align: center; }
+.our-team-cta-section .vc_general .vc_cta3-actions .vc_btn3-container a.vc_general { font-family: "Montserrat",sans-serif; font-size: 15px; font-weight: 500; font-style: normal; line-height: normal; text-decoration: none; text-transform: none; letter-spacing: -0.2px; background: #FFF !important; color: #111 !important; padding: 1.6em 4em 1.7333em !important; border-radius: 70px; transition: all 0.3s; }
+.our-team-cta-section .vc_general .vc_cta3-actions .vc_btn3-container a.vc_general:hover { background: #087bf0 !important; color: #FFF !important; transition: all 0.3s; }
+
+
+.volunteer-info-boxes-section .sc_item_columns { justify-content: center; }
+.volunteer-info-boxes-section .sc_item_columns .sc_icons_item { background: #FFF; box-shadow: 0 0 25px rgba(0,0,0,0.1); display: flex; flex-direction: column; padding: 25px; }
+
+
+
+
+.scheme_dark .menu_mobile_inner a:hover, .scheme_dark .menu_mobile_inner .current-menu-ancestor>a, .scheme_dark .menu_mobile_inner .current-menu-item>a, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li:hover:before, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li.current-menu-ancestor:before, .scheme_dark .menu_mobile_inner .menu_mobile_nav_area li.current-menu-item:before { color: #fd38e8 !important; }
+.scheme_default .menu_mobile_inner .social_item .social_icon { color: #fd38e8 !important; }
+
+
+
+@media screen and (max-width: 768px) {
+
+
+.self-assessment-sidebar-wrapper .sc_shift_y_large_negative { top: auto !important; padding: 0 !important; }
+.self-assessment-box-wrapper .sc_item_title { font-size: 1.7em !important; }
+.self-assessment-box-wrapper > .sc_item_descr { padding: 15px 25px 15px 25px; margin: 0px !important; }
+.self-assessment-box-wrapper > .sc_item_descr h3 { font-size: 1.3em !important; line-height: 1.3em !important; }
+.self-assessment-box-wrapper > .sc_item_descr h5 { font-size: 1.2em !important; line-height: 1.4em !important; font-weight: 500; margin: 15px 0; }
+
+
+.our-team-all-members-section .vc_separator { margin-top: 35px !important; margin-bottom: 35px !important; }
+
+
+
+}

@@ -1,0 +1,56 @@
+Version 1.4.1
+    	Fixed:
+    	- Update plugins to the latest versions
+    	- Improve theme styles
+    	Added:
+        - Elegro Crypto Payment plugin
+        - TRX Updater plugin
+
+Version 1.4.0
+    	Fixed:
+    	- Update plugins to the latest versions
+    	- Improve theme styles
+    	- Compatibility with Slider Revolution 5.4
+    	Add:
+    	- Home 4, Home 5, Home 6 page
+    	- Color Sheme
+
+Version 1.3.2
+    	Fixed:
+    	- Improve PHP 7.3 compatibility
+    	- Compatibility with WooCommerce 3.6
+    	- Update plugins to the latest versions
+    	- Update scripts libraries
+    	- Improve theme styles
+
+Version 1.3.1
+    Added:
+        - Compatibility with WP 5.1
+        - Compatibility with PHP7.2
+
+    Fixed:
+        - Update plugins to their latest versions
+        - Improve theme styles
+        - Scripts libraries updated
+        - Checkbox view in Contact Form 7 plugin
+
+    Changed:
+        - Remove The GDPR Framework plugin
+        - Update demo data
+
+Version 1.3
+    Add GDPR update
+    Add Privacy Policy page
+    Add GDPR Framework plugin
+    Add alert install demodate
+
+Version 1.2
+	Copability WP 4.9.6
+	Plugins updated
+
+
+Version 1.1
+	Documentation updated
+	Plugins updated
+
+Version 1.0
